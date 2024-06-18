@@ -1,2 +1,2 @@
-Yes;No
+Yes;No;
 Would you like an ingame currency based item store?
