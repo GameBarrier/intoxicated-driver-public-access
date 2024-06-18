@@ -1,2 +1,2 @@
-Yes;No;Maybe;
-skbidi?
+Yes;No;
+Would you like to see an ingame currency based shop?
