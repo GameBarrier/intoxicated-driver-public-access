@@ -608,7 +608,7 @@
             "description": "Do nut challenge me",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
-            "store_tags": "Legendary",
+            "store_tags": "Rare",
             
             "price": "1;VLV150",
             "name_color": "8400ff",
@@ -736,7 +736,7 @@
             "description": "S.E.N.D M.O.R.E B.E.E.R.S",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
-            "store_tags": "Common",
+            "store_tags": "Rare",
 
             "price": "1;VLV150",
             "name_color": "8400ff",
