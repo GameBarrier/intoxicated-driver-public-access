@@ -834,7 +834,7 @@
             "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/wheels/banana_wheel.png?raw=true",
             "name": "Banana wheel",
             "description": "Technically berries",
-            "display_type": "wheel",
+            "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
 
