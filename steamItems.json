@@ -25,7 +25,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/hot_dog_car.hot_dog_car'"
         },
         {
             "itemdefid": 2,
@@ -51,8 +52,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
-
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/ice_cream.ice_cream'"
         },
         {
             "itemdefid": 3,
@@ -79,7 +80,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/pick_up.pick_up'"
         },
         {
             "itemdefid": 4,
@@ -106,7 +108,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/small_hat.small_hat'"
         },
         {
             "itemdefid": 5,
@@ -133,7 +136,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Cap.Cap'"
         },
         {
             "itemdefid": 6,
@@ -160,7 +164,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Karl/karl.karl'"
         },
         {
             "itemdefid": 7,
@@ -187,7 +192,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/SmileyFace/smileyFace.smileyFace'"
         },
         {
             "itemdefid": 8,
@@ -214,7 +220,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/party_hat.party_hat'"
         },
         {
             "itemdefid": 9,
@@ -241,7 +248,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/large_hat.large_hat'"
         },
         {
             "itemdefid": 10,
@@ -268,7 +276,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Supercap.Supercap'"
         },
         {
             "itemdefid": 11,
@@ -294,7 +303,8 @@
             "marketable": false,
             "hidden": false,
             "store_hidden": false,
-            "game_only": false
+            "game_only": false,
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Beer/beerHat.beerHat'"
         },
         {
             "itemdefid": 12,
@@ -321,7 +331,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Wine/wineHat.wineHat'"
         },
         {
             "itemdefid": 13,
@@ -348,7 +359,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Vodka/vodkaHat.vodkaHat'"
         },
         {
             "itemdefid": 14,
@@ -375,7 +387,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Halo/halo.halo'"
         },
         {
             "itemdefid": 15,
@@ -402,7 +415,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/jimmy_hat.jimmy_hat'"
         },
         {
             "itemdefid": 16,
@@ -429,7 +443,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/super_engine.super_engine'"
         },
         {
             "itemdefid": 17,
@@ -456,7 +471,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/spoiler.spoiler'"
         },
         {
             "itemdefid": 18,
@@ -483,7 +499,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/ramp.ramp'"
         },
         {
             "itemdefid": 19,
@@ -510,7 +527,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/spiked_wheel.spiked_wheel'"
         },
         {
             "itemdefid": 20,
@@ -537,7 +555,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/flagHat.flagHat'"
         },
         {
             "itemdefid": 21,
@@ -564,7 +583,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/dualFlags.dualFlags'"
         },
         {
             "itemdefid": 22,
@@ -591,7 +611,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/diamond.diamond'"
         },
         {
             "itemdefid": 23,
@@ -618,7 +639,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/IceCreamHat.IceCreamHat'"
         },
         {
             "itemdefid": 24,
@@ -644,7 +666,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/donut_wheel.donut_wheel'"
         },
         {
             "itemdefid": 25,
@@ -671,7 +694,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/racecar.racecar'"
         },
         {
             "itemdefid": 26,
@@ -724,7 +748,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/rocketship.rocketship'"
         },
         {
             "itemdefid": 28,
@@ -751,7 +776,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/thruster_wheels.thruster_wheels'"
         },
         {
             "itemdefid": 29,
@@ -777,7 +803,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Satelite.Satelite'"
         },
         {
             "itemdefid": 30,
@@ -803,7 +830,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/bananacar.bananacar'"
         },
         {
             "itemdefid": 31,
@@ -829,7 +857,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/truck.truck'"
         },
         {
             "itemdefid": 32,
@@ -855,7 +884,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/BananaPeelHat.BananaPeelHat'"
         },
         {
             "itemdefid": 33,
@@ -881,7 +911,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/banana_wheel.banana_wheel'"
         },
         {
             "itemdefid": 34,
@@ -907,7 +938,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase"
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/eggplant_car.eggplant_car'"
         }
     ]
 }
