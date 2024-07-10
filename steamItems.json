@@ -26,7 +26,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/hot_dog_car.hot_dog_car'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/hot_dog_car.hot_dog_car'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 2,
@@ -53,7 +59,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/ice_cream.ice_cream'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/ice_cream.ice_cream'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 3,
@@ -81,7 +93,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/pick_up.pick_up'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/pick_up.pick_up'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 4,
@@ -388,7 +406,17 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Halo/halo.halo'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Halo/halo.halo'",
+            "material_properties": [
+                {
+                    "slot": 1,
+                    "emission": 100
+                },
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 15,
@@ -618,7 +646,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/diamond.diamond'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/diamond.diamond'",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "emission": 20
+                }
+            ]
         },
         {
             "itemdefid": 23,
@@ -701,7 +735,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/racecar.racecar'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/racecar.racecar'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 26,
@@ -755,7 +795,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/rocketship.rocketship'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/rocketship.rocketship'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 28,
@@ -783,7 +829,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/thruster_wheels.thruster_wheels'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/thruster_wheels.thruster_wheels'",
+            "material_properties": [
+                {
+                    "slot": 1,
+                    "emission": 50
+                }
+            ]
         },
         {
             "itemdefid": 29,
@@ -837,7 +889,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/bananacar.bananacar'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/bananacar.bananacar'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 31,
@@ -864,7 +922,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/truck.truck'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/truck.truck'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 32,
@@ -945,7 +1009,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/eggplant_car.eggplant_car'"
+            "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/eggplant_car.eggplant_car'",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         }
     ]
 }
