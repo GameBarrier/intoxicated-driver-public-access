@@ -409,11 +409,11 @@
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Halo/halo.halo'",
             "material_properties": [
                 {
-                    "slot": 1,
+                    "slot": 0,
                     "emission": 100
                 },
                 {
-                    "slot": 2,
+                    "slot": 1,
                     "emission": 100
                 }
             ]
