@@ -416,7 +416,13 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/jimmy_hat.jimmy_hat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/jimmy_hat.jimmy_hat'",
+            "material_properties": [
+                {
+                    "slot": 1,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": 16,
