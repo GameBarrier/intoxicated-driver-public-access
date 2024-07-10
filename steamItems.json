@@ -420,7 +420,7 @@
             "material_properties": [
                 {
                     "slot": 1,
-                    "emission": 100
+                    "emission": 50
                 }
             ]
         },
