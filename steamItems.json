@@ -476,7 +476,8 @@
                     "slot": 1,
                     "emission": 50
                 }
-            ]
+            ],
+            "default_colors": "255,71,29;255,233,29"
         },
         {
             "itemdefid": 16,
@@ -504,7 +505,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/super_engine.super_engine'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/super_engine.super_engine'",
+            "default_colors": "120,100,100;50,50,50"
         },
         {
             "itemdefid": 17,
@@ -532,7 +534,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/spoiler.spoiler'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/spoiler.spoiler'",
+            "default_colors": "20,20,20;120,0,0"
         },
         {
             "itemdefid": 18,
@@ -560,7 +563,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/ramp.ramp'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/ramp.ramp'",
+            "default_colors": "50,50,50;255,0,0"
         },
         {
             "itemdefid": 19,
@@ -588,7 +592,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/spiked_wheel.spiked_wheel'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/spiked_wheel.spiked_wheel'",
+            "default_colors": "255,0,0;10,0,0;50,50,50"
         },
         {
             "itemdefid": 20,
@@ -616,7 +621,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/flagHat.flagHat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/flagHat.flagHat'",
+            "default_colors": "255,0,0;255,255,255"
         },
         {
             "itemdefid": 21,
@@ -644,7 +650,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/dualFlags.dualFlags'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/dualFlags.dualFlags'",
+            "default_colors": "255,0,0;255,255,255"
         },
         {
             "itemdefid": 22,
@@ -678,7 +685,8 @@
                     "slot": 0,
                     "emission": 20
                 }
-            ]
+            ],
+            "default_colors": "0,0,255;255,255,255"
         },
         {
             "itemdefid": 23,
@@ -706,7 +714,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/IceCreamHat.IceCreamHat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/IceCreamHat.IceCreamHat'",
+            "default_colors": "255,284,80;255,255,255"
         },
         {
             "itemdefid": 24,
@@ -733,7 +742,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/donut_wheel.donut_wheel'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/donut_wheel.donut_wheel'",
+            "default_colors": "255,172,140;255,79,98"
         },
         {
             "itemdefid": 25,
@@ -767,7 +777,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "0,0,0;255,255,255;255,255,255;0,179,0;30,50,50;0,0,255"
         },
         {
             "itemdefid": 26,
@@ -827,7 +838,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "255,255,255;255,0,0;255,255,0;255,0,0;107,176,255"
         },
         {
             "itemdefid": 28,
@@ -861,7 +873,8 @@
                     "slot": 1,
                     "emission": 50
                 }
-            ]
+            ],
+            "default_colors": "100,100,100;255,0,0;255,255,255"
         },
         {
             "itemdefid": 29,
@@ -888,7 +901,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Satelite.Satelite'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Satelite.Satelite'",
+            "default_colors": "255,255,255;0,0,0"
         },
         {
             "itemdefid": 30,
@@ -921,7 +935,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "255,255,0;76,55,0;255,255,0;0,61,0;0,0,255"
         },
         {
             "itemdefid": 31,
@@ -954,7 +969,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "255,255,255;255,0,0;0,255,0;55,74,0;100,100,200"
         },
         {
             "itemdefid": 32,
@@ -981,7 +997,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/BananaPeelHat.BananaPeelHat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/BananaPeelHat.BananaPeelHat'",
+            "default_colors": "255,255,0;0,50,0"
         },
         {
             "itemdefid": 33,
@@ -1008,7 +1025,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/banana_wheel.banana_wheel'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/banana_wheel.banana_wheel'",
+            "default_colors": "255,255,0;0,75,0"
         },
         {
             "itemdefid": 34,
@@ -1041,7 +1059,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "37,0,255;0,255,0;0,255,0;255,0,80;93,0,168"
         }
     ]
 }
