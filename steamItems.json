@@ -32,7 +32,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "255,150,84;255,69,5;255,255,0;255,255,0;255,0,0"
         },
         {
             "itemdefid": 2,
@@ -65,7 +66,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "255,173,179;0,255,255;255,255,0;0,255,0;177,255,255"
         },
         {
             "itemdefid": 3,
@@ -99,7 +101,8 @@
                     "slot": 2,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "255,255,255;0,0,0;255,255,255,0,34,0;0,0,0"
         },
         {
             "itemdefid": 4,
@@ -127,7 +130,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/small_hat.small_hat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/small_hat.small_hat'",
+            "default_colors": "0,0,0;255,0,0"
         },
         {
             "itemdefid": 5,
@@ -155,7 +159,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Cap.Cap'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Cap.Cap'",
+            "default_colors": "255,0,0;104,168,255"
         },
         {
             "itemdefid": 6,
@@ -189,7 +194,8 @@
                     "slot": 1,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "0,255,0;0,0,255"
         },
         {
             "itemdefid": 7,
@@ -217,7 +223,14 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/SmileyFace/smileyFace.smileyFace'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/SmileyFace/smileyFace.smileyFace'",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "emission": 100
+                }
+            ],
+            "default_colors": "255,255,0;255,255,0"
         },
         {
             "itemdefid": 8,
@@ -245,7 +258,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/party_hat.party_hat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/party_hat.party_hat'",
+            "default_colors": "0,255,255;0,0,255"
         },
         {
             "itemdefid": 9,
@@ -273,7 +287,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/large_hat.large_hat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/large_hat.large_hat'",
+            "default_colors": "2355,255,255;0,0,0"
         },
         {
             "itemdefid": 10,
@@ -301,7 +316,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Supercap.Supercap'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Supercap.Supercap'",
+            "default_colors": "255,0,0;255,255,255"
         },
         {
             "itemdefid": 11,
@@ -328,7 +344,8 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Beer/beerHat.beerHat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Beer/beerHat.beerHat'",
+            "default_colors": "193,161,27;0,0,0;97,0,0"
         },
         {
             "itemdefid": 12,
@@ -356,7 +373,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Wine/wineHat.wineHat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Wine/wineHat.wineHat'",
+            "default_colors": "255,37,26;255,255,255"
         },
         {
             "itemdefid": 13,
@@ -384,7 +402,8 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Vodka/vodkaHat.vodkaHat'"
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/CalanHats/Vodka/vodkaHat.vodkaHat'",
+            "default_colors": "255,255,255;255,85,85;100,100,100"
         },
         {
             "itemdefid": 14,
@@ -422,7 +441,8 @@
                     "slot": 1,
                     "emission": 100
                 }
-            ]
+            ],
+            "default_colors": "255,255,0;255,255,0"
         },
         {
             "itemdefid": 15,
