@@ -874,6 +874,11 @@
                     "emission": 50
                 }
             ],
+            "mesh_properties": [
+                {
+                    "disable_wheel_rotation": true
+                }
+            ],
             "default_colors": "100,100,100;255,0,0;255,255,255"
         },
         {
