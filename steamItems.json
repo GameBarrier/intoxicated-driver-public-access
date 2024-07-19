@@ -1388,6 +1388,10 @@
                 {
                     "slot": 1,
                     "emission": 200
+                },
+                {
+                    "slot": 2,
+                    "emission": 100
                 }
             ],
             "default_colors": "255,204,0;255,255,255",
