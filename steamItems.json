@@ -1188,8 +1188,8 @@
         },
         {
             "itemdefid": -1,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Dash%20shooter.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Dash%20shooter.png?raw=true",
             "name": "Dash shooter",
             "description": "He's just a lil dude who can dash and shoot.",
             "display_type": "Hat",
@@ -1217,8 +1217,8 @@
         },
         {
             "itemdefid": -1,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Voxel%20Miner.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Voxel%20Miner.png?raw=true",
             "name": "Voxel Miner",
             "description": "The one and only dweller of the deep",
             "display_type": "Hat",
