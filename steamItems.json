@@ -1442,6 +1442,39 @@
                 }
             ],
             "app_id_required": "2748490"
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "name": "Dash shooter",
+            "description": "He's just a lil dude who can dash and shoot.",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+
+            "name_color": "4287f5",
+            "background_color": "4287f5", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "owns_game",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/dashShooter.dashShooter'",
+            "material_properties": [
+                {
+                    "slot": 1,
+                    "emission": 100
+                }
+            ],
+            "app_id_required": "1955410"
         }
     ]
 }
