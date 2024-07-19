@@ -1066,6 +1066,34 @@
                 }
             ],
             "default_colors": "37,0,255;0,255,0;0,255,0;255,0,80;93,0,168"
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Fallback",
+            "description": "Debug purposes, used to generate a fallback thumbnail for generating thumbnails",
+            "display_type": "Car model",
+            "item_slot": "Cosmetic",
+            "store_tags": "Uncommon",
+
+            "price": "0;VLV100",
+            "name_color": "4287f5",
+            "background_color": "4287f5", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Fallback_mesh.Fallback_mesh'",
+            "default_colors": "50,50,50"
         }
     ]
 }
