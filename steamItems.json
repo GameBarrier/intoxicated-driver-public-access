@@ -1119,7 +1119,7 @@
             "store_hidden": true,
             "game_only": false,
             "unlock_type": "level",
-            "mesh_path": "/Script/Engine.Texture2D'/Game/DrunkDriver/Art/Thumbnail/ShopItems/Hats/wizard_hat.wizard_hat'",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/wizard_hat.wizard_hat'",
             "default_colors": "75,0,112;123,0,184",
             "level_required": 10
         },
@@ -1181,7 +1181,7 @@
             "store_hidden": true,
             "game_only": false,
             "unlock_type": "level",
-            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/light_wheel.light_wheel'",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/crystal_wheels.crystal_wheels'",
             "material_properties": [
                 {
                     "slot": 1,
@@ -1272,7 +1272,7 @@
             "game_only": false,
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/snowman.snowman'",
-            "default_colors": "255,255,255;255,206,107",
+            "default_colors": "255,255,255;171,89,89",
             "level_required": 60
         },
         {
@@ -1356,7 +1356,7 @@
             "game_only": false,
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/clock_wheel.clock_wheel'",
-            "default_colors": "200,200,200;163,115,70;255,255,255",
+            "default_colors": "200,200,200;163,115,70;0,0,0",
             "level_required": 90
         },
         {
@@ -1390,7 +1390,7 @@
                     "emission": 200
                 }
             ],
-            "default_colors": "255,204,0,255,255,255",
+            "default_colors": "255,204,0;255,255,255",
             "level_required": 100
         }
     ]
