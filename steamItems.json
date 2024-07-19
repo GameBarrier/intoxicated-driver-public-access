@@ -1076,7 +1076,7 @@
             "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fallback.png?raw=true",
             "name": "Fallback",
             "description": "Debug purposes, used to generate a fallback thumbnail for generating thumbnails",
-            "display_type": "Car model",
+            "display_type": "Debug",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
 
@@ -1091,7 +1091,7 @@
             "hidden": true,
             "store_hidden": true,
             "game_only": false,
-            "unlock_type": "purchase",
+            "unlock_type": "free",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Fallback_mesh.Fallback_mesh'",
             "default_colors": "50,50,50"
         }
