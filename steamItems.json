@@ -1208,7 +1208,7 @@
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/dashShooter.dashShooter'",
             "material_properties": [
                 {
-                    "slot": 1,
+                    "slot": 0,
                     "emission": 100
                 }
             ],
