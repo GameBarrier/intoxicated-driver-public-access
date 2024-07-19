@@ -870,6 +870,10 @@
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/thruster_wheels.thruster_wheels'",
             "material_properties": [
                 {
+                    "slot": 0,
+                    "metallic": 50
+                },
+                {
                     "slot": 1,
                     "emission": 50
                 }
