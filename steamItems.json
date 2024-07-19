@@ -1078,7 +1078,7 @@
             "description": "Debug purposes, used to generate a fallback thumbnail for generating thumbnails",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
-            "store_tags": "Uncommon",
+            "store_tags": "Common",
 
             "price": "0;VLV100",
             "name_color": "4287f5",
