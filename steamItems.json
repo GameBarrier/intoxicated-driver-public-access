@@ -1420,14 +1420,15 @@
             "hidden": false,
             "store_hidden": true,
             "game_only": false,
-            "unlock_type": "own_game",
+            "unlock_type": "owns_game",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Redlight/Redlight_Static.Redlight_Static'",
             "material_properties": [
                 {
                     "slot": 0,
                     "material_override": "/Script/Engine.Material'/Game/DrunkDriver/Art/Meshes/Vehicles/Redlight/redlight_monster_material.redlight_monster_material'"
                 }
-            ]
+            ],
+            "app_id_required": "2748490"
         }
     ]
 }
