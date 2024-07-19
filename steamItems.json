@@ -1396,6 +1396,38 @@
             ],
             "default_colors": "255,204,0;255,255,255",
             "level_required": 100
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Redlight monster",
+            "description": "For the true daredevil's",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+
+            "name_color": "fc0303",
+            "background_color": "fc0303", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "own_game",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Redlight/Redlight_Static.Redlight_Static'",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "material_override": "/Script/Engine.Material'/Game/DrunkDriver/Art/Meshes/Vehicles/Redlight/redlight_monster_material.redlight_monster_material'"
+                }
+            ]
         }
     ]
 }
