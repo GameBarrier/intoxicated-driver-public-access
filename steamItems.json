@@ -1094,6 +1094,304 @@
             "unlock_type": "free",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Fallback_mesh.Fallback_mesh'",
             "default_colors": "50,50,50"
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Wizard hat",
+            "description": "Alcohol is just magic if you think hard enough about it.",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.Texture2D'/Game/DrunkDriver/Art/Thumbnail/ShopItems/Hats/wizard_hat.wizard_hat'",
+            "default_colors": "75,0,112;123,0,184",
+            "level_required": 10
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Glowing wheels",
+            "description": "Pedal to the methal!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/light_wheel.light_wheel'",
+            "material_properties": [
+                {
+                    "slot": 1,
+                    "emission": 100
+                }
+            ],
+            "default_colors": "33,33,33;255,94,0",
+            "level_required": 20
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Crystal wheels",
+            "description": "Pedal to the methal!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/light_wheel.light_wheel'",
+            "material_properties": [
+                {
+                    "slot": 1,
+                    "emission": 100
+                }
+            ],
+            "default_colors": "33,33,33;255,94,0",
+            "level_required": 30
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Toilet hat",
+            "description": "When you gotta go, you gotta go.",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Toilet.Toilet'",
+            "default_colors": "227,227,227;140,140,140",
+            "level_required": 40
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Bucket wheels",
+            "description": "For completing your bucket list!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/buckets.buckets'",
+            "default_colors": "64,64,64;219,175,0",
+            "level_required": 50
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Snowman hat",
+            "description": "Don't mix chill pills with alcohol",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/snowman.snowman'",
+            "default_colors": "255,255,255;255,206,107",
+            "level_required": 60
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Peppermint wheels",
+            "description": "Peppermint martini's are worth it.",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/peppermint.peppermint'",
+            "default_colors": "255,255,255;255,0,0",
+            "level_required": 70
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Turret hat",
+            "description": "Shoots alcohol right into your mouth!",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Turret_hat.Turret_hat'",
+            "default_colors": "138,138,138;191,0,51",
+            "level_required": 80
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Clock wheels",
+            "description": "Even a clock for a wheel is right twice every rotation, It's drinking time!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Common",
+
+            "name_color": "919191",
+            "background_color": "919191", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/clock_wheel.clock_wheel'",
+            "default_colors": "200,200,200;163,115,70;255,255,255",
+            "level_required": 90
+        },
+        {
+            "itemdefid": -1,
+
+            "icon_url": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": 
+            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "name": "Crown",
+            "description": "For the proudest, fastests and bestest drunk driver!",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+
+            "name_color": "ffbf00",
+            "background_color": "ffbf00", 
+
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": true,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "level",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/crown.crown'",
+            "material_properties": [
+                {
+                    "slot": 1,
+                    "emission": 200
+                }
+            ],
+            "default_colors": "255,204,0,255,255,255",
+            "level_required": 100
         }
     ]
 }
