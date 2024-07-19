@@ -1386,7 +1386,7 @@
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/crown.crown'",
             "material_properties": [
                 {
-                    "slot": 1,
+                    "slot": 0,
                     "emission": 200
                 },
                 {
