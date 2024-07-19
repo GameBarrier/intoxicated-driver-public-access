@@ -1195,8 +1195,8 @@
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-            "name_color": "4287f5",
-            "background_color": "4287f5",
+            "name_color": "0051ff",
+            "background_color": "0051ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1212,7 +1212,8 @@
                     "emission": 100
                 }
             ],
-            "app_id_required": "1955410"
+            "app_id_required": "1955410",
+            "default_colors": "0,81,255;137,150,176"
         }
     ]
 }
