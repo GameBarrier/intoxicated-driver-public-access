@@ -1272,7 +1272,7 @@
             "game_only": false,
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/snowman.snowman'",
-            "default_colors": "255,255,255;171,89,89",
+            "default_colors": "255,255,255;255,0,0",
             "level_required": 60
         },
         {
