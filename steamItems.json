@@ -1188,7 +1188,7 @@
                     "emission": 100
                 }
             ],
-            "default_colors": "33,33,33;255,94,0",
+            "default_colors": "33,33,33;0,26,255",
             "level_required": 30
         },
         {
