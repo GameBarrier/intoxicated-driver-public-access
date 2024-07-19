@@ -871,7 +871,8 @@
             "material_properties": [
                 {
                     "slot": 0,
-                    "metallic": 20
+                    "metallic": 80,
+                    "roughness": 10
                 },
                 {
                     "slot": 1,
@@ -1254,7 +1255,8 @@
             "material_properties":[
                 {
                     "slot": 0,
-                    "metallic": 20
+                    "metallic": 100,
+                    "roughness": 10
                 }
             ]
         },
