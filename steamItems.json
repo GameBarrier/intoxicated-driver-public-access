@@ -3,21 +3,16 @@
     "items": [
         {
             "itemdefid": 1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Hot%20dog.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Hot%20dog.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Hot%20dog.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Hot%20dog.png?raw=true",
             "name": "Hot dog",
             "description": "Sizzles on the road either way",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "price": "1;VLV200",
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -37,21 +32,16 @@
         },
         {
             "itemdefid": 2,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream%20Truck.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream%20Truck.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream%20Truck.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream%20Truck.png?raw=true",
             "name": "Ice Cream Truck",
             "description": "The COOLest car you have ever seen",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-
             "price": "1;VLV150",
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -71,22 +61,16 @@
         },
         {
             "itemdefid": 3,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Pickup.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Pickup.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Pickup.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Pickup.png?raw=true",
             "name": "Pickup",
             "description": "Don't navigate the streets, dominate them!",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -106,22 +90,16 @@
         },
         {
             "itemdefid": 4,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Small%20Hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Small%20Hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Small%20Hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Small%20Hat.png?raw=true",
             "name": "Small Hat",
             "description": "Packs a punch of style",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "price": "1;VLV50",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -135,22 +113,16 @@
         },
         {
             "itemdefid": 5,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cap.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cap.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cap.png?raw=true",
             "name": "Cap",
             "description": "Keeping it cool and casual",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "price": "1;VLV50",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -164,22 +136,16 @@
         },
         {
             "itemdefid": 6,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Karl.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Karl.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Karl.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Karl.png?raw=true",
             "name": "Karl",
             "description": "Guess what? It's KARL!",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "price": "1;VLV50",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -199,22 +165,16 @@
         },
         {
             "itemdefid": 7,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Smiley%20Face.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Smiley%20Face.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Smiley%20Face.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Smiley%20Face.png?raw=true",
             "name": "Smiley Face",
             "description": "No need to worry, you got this",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "price": "1;VLV50",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -234,22 +194,16 @@
         },
         {
             "itemdefid": 8,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Party%20Hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Party%20Hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Party%20Hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Party%20Hat.png?raw=true",
             "name": "Party Hat",
             "description": "Being on the road is always a party!",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "price": "1;VLV50",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -263,22 +217,16 @@
         },
         {
             "itemdefid": 9,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Large%20Hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Large%20Hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Large%20Hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Large%20Hat.png?raw=true",
             "name": "Large Hat",
             "description": "Theigh shaunt obey",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -292,22 +240,16 @@
         },
         {
             "itemdefid": 10,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Cap.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Cap.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Cap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Cap.png?raw=true",
             "name": "Super Cap",
             "description": "Drinking and driving has never been easier",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -321,22 +263,16 @@
         },
         {
             "itemdefid": 11,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Beer.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Beer.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Beer.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Beer.png?raw=true",
             "name": "Beer",
             "description": "Beer me one-to-go",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -349,22 +285,16 @@
         },
         {
             "itemdefid": 12,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wine.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wine.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wine.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wine.png?raw=true",
             "name": "Wine",
             "description": "To stop the whining, get to wine-ing",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -378,22 +308,16 @@
         },
         {
             "itemdefid": 13,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Vodka.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Vodka.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Vodka.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Vodka.png?raw=true",
             "name": "Vodka",
             "description": "In game, vodka drinks you!",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -407,22 +331,16 @@
         },
         {
             "itemdefid": 14,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Halo.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Halo.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Halo.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Halo.png?raw=true",
             "name": "Halo",
             "description": "The guardian that destroys you",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-
             "price": "1;VLV150",
-
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -446,22 +364,16 @@
         },
         {
             "itemdefid": 15,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/J1MM-Y.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/J1MM-Y.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/J1MM-Y.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/J1MM-Y.png?raw=true",
             "name": "J1MM-Y",
             "description": "Straight from mars to make an appearance",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-
             "price": "1;VLV150",
-
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -481,22 +393,16 @@
         },
         {
             "itemdefid": 16,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Engine.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Engine.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Engine.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Engine.png?raw=true",
             "name": "Super Engine",
             "description": "0% Speed boost, 200% SWAG",
             "display_type": "Car detail (back)",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "price": "1;VLV50",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -510,22 +416,16 @@
         },
         {
             "itemdefid": 17,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spoiler.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spoiler.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spoiler.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spoiler.png?raw=true",
             "name": "Spoiler",
             "description": "Turning heads and cutting trough air",
             "display_type": "Car detail (back)",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -539,22 +439,16 @@
         },
         {
             "itemdefid": 18,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ramp.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ramp.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ramp.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ramp.png?raw=true",
             "name": "Ramp",
             "description": "Giving cars a lift",
             "display_type": "Car detail (front)",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -568,22 +462,16 @@
         },
         {
             "itemdefid": 19,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spiked%20Wheel.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spiked%20Wheel.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spiked%20Wheel.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spiked%20Wheel.png?raw=true",
             "name": "Spiked Wheel",
             "description": "Popping off, popping tires",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -597,22 +485,16 @@
         },
         {
             "itemdefid": 20,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flag.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flag.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flag.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flag.png?raw=true",
             "name": "Flag",
             "description": "You ever wonder why we're here?",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Uncommon",
-
             "price": "1;VLV100",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -626,22 +508,16 @@
         },
         {
             "itemdefid": 21,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Dual%20Flags.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Dual%20Flags.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Dual%20Flags.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Dual%20Flags.png?raw=true",
             "name": "Dual Flags",
             "description": "Here comes trouble, and make it double",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-
             "price": "1;VLV150",
-
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -655,22 +531,16 @@
         },
         {
             "itemdefid": 22,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Diamond.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Diamond.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Diamond.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Diamond.png?raw=true",
             "name": "Diamond",
             "description": "100 carats more then you can imagine",
             "display_type": "Car detail (front)",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "price": "1;VLV200",
-
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -690,22 +560,16 @@
         },
         {
             "itemdefid": 23,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Ice%20Cream.png?raw=true",
             "name": "Ice Cream",
             "description": "As tasty as revenge",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-
             "price": "1;VLV150",
-
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -719,21 +583,16 @@
         },
         {
             "itemdefid": 24,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Donut.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Donut.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Donut.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Donut.png?raw=true",
             "name": "Donut",
             "description": "Do nut challenge me",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-            
             "price": "1;VLV150",
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -747,22 +606,16 @@
         },
         {
             "itemdefid": 25,
-
-            "icon_url":
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Race%20Car.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Race%20Car.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Race%20Car.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Race%20Car.png?raw=true",
             "name": "Race Car",
             "description": "Can't get a ticket for drunk driving when you are fast enough!",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-            
             "price": "1;VLV200",
-
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -782,22 +635,16 @@
         },
         {
             "itemdefid": 26,
-
-            "icon_url":
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/level_reward_pass.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/level_reward_pass.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/level_reward_pass.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/level_reward_pass.png?raw=true",
             "name": "All level rewards",
             "description": "Instantly unlock all level rewards!",
             "display_type": "Special",
             "item_slot": "Special item",
             "store_tags": "Legendary",
-            
             "price": "1;VLV500",
-
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -809,21 +656,16 @@
         },
         {
             "itemdefid": 27,
-
-            "icon_url":
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Rocketship.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Rocketship.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Rocketship.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Rocketship.png?raw=true",
             "name": "Rocketship",
             "description": "Intergalactic booze, I mean booze, I mean fuel",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "price": "1;VLV200",
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -843,22 +685,16 @@
         },
         {
             "itemdefid": 28,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Thrusters.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Thrusters.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Thrusters.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Thrusters.png?raw=true",
             "name": "Thrusters",
             "description": "So high I don't touch the floor",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-            
             "price": "1;VLV200",
-
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -879,30 +715,23 @@
                     "emission": 50
                 }
             ],
-            
             "mesh_properties": [
-                    "disable_wheel_rotation"
+                "disable_wheel_rotation"
             ],
-
             "default_colors": "100,100,100;255,0,0;255,255,255"
         },
         {
             "itemdefid": 29,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Satelite.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Satelite.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Satelite.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Satelite.png?raw=true",
             "name": "Satelite",
             "description": "S.E.N.D M.O.R.E B.E.E.R.S",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-
             "price": "1;VLV150",
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -916,21 +745,16 @@
         },
         {
             "itemdefid": 30,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20mobile.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20mobile.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20mobile.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20mobile.png?raw=true",
             "name": "Banana mobile",
             "description": "That's totally bananas!",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "price": "1;VLV200",
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -950,21 +774,16 @@
         },
         {
             "itemdefid": 31,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Daddy's%20dump%20truck.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Daddy's%20dump%20truck.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Daddy's%20dump%20truck.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Daddy's%20dump%20truck.png?raw=true",
             "name": "Daddy's dump truck",
             "description": "Getting drunk from withing the truck",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
-
             "price": "1;VLV150",
             "name_color": "8400ff",
-            "background_color": "8400ff", 
-
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -984,21 +803,16 @@
         },
         {
             "itemdefid": 32,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20peel%20hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20peel%20hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20peel%20hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20peel%20hat.png?raw=true",
             "name": "Banana peel hat",
             "description": "As slippery as my wheel after 10 beers",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "price": "1;VLV200",
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1012,21 +826,16 @@
         },
         {
             "itemdefid": 33,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20wheel.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20wheel.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20wheel.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20wheel.png?raw=true",
             "name": "Banana wheel",
             "description": "Technically berries",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "price": "1;VLV200",
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1040,21 +849,16 @@
         },
         {
             "itemdefid": 34,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Eggplant%20drifter.png?raw=true",
             "name": "Eggplant drifter",
             "description": "Technically a fruit, not a vegetable!",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "price": "1;VLV200",
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1074,21 +878,16 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fallback.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fallback.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fallback.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fallback.png?raw=true",
             "name": "Fallback",
             "description": "Debug purposes, used to generate a fallback thumbnail for generating thumbnails",
             "display_type": "Debug",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "price": "0;VLV100",
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1102,20 +901,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wizard%20hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wizard%20hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wizard%20hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wizard%20hat.png?raw=true",
             "name": "Wizard hat",
             "description": "Alcohol is just magic if you think hard enough about it.",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1130,20 +924,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Glowing%20wheels.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Glowing%20wheels.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Glowing%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Glowing%20wheels.png?raw=true",
             "name": "Glowing wheels",
             "description": "Pedal to the methal!",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1164,20 +953,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crystal%20wheels.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crystal%20wheels.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crystal%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crystal%20wheels.png?raw=true",
             "name": "Crystal wheels",
             "description": "Pedal to the methal!",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1198,20 +982,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Toilet%20hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Toilet%20hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Toilet%20hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Toilet%20hat.png?raw=true",
             "name": "Toilet hat",
             "description": "When you gotta go, you gotta go.",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1226,20 +1005,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Bucket%20wheels.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Bucket%20wheels.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Bucket%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Bucket%20wheels.png?raw=true",
             "name": "Bucket wheels",
             "description": "For completing your bucket list!",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1251,8 +1025,7 @@
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/buckets.buckets'",
             "default_colors": "64,64,64;219,175,0",
             "level_required": 50,
-
-            "material_properties":[
+            "material_properties": [
                 {
                     "slot": 0,
                     "metallic": 100,
@@ -1262,20 +1035,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snowman%20hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snowman%20hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snowman%20hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snowman%20hat.png?raw=true",
             "name": "Snowman hat",
             "description": "Don't mix chill pills with alcohol",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1290,20 +1058,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Peppermint%20wheels.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Peppermint%20wheels.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Peppermint%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Peppermint%20wheels.png?raw=true",
             "name": "Peppermint wheels",
             "description": "Peppermint martini's are worth it.",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1318,20 +1081,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Turret%20hat.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Turret%20hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Turret%20hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Turret%20hat.png?raw=true",
             "name": "Turret hat",
             "description": "Shoots alcohol right into your mouth!",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1346,20 +1104,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Clock%20wheels.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Clock%20wheels.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Clock%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Clock%20wheels.png?raw=true",
             "name": "Clock wheels",
             "description": "Even a clock for a wheel is right twice every rotation, It's drinking time!",
             "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Common",
-
             "name_color": "919191",
-            "background_color": "919191", 
-
+            "background_color": "919191",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1374,20 +1127,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crown.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crown.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crown.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Crown.png?raw=true",
             "name": "Crown",
             "description": "For the proudest, fastests and bestest drunk driver!",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "name_color": "ffbf00",
-            "background_color": "ffbf00", 
-
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1412,20 +1160,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
             "name": "Redlight monster",
             "description": "For the true daredevil's",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "name_color": "fc0303",
-            "background_color": "fc0303", 
-
+            "background_color": "fc0303",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1445,20 +1188,15 @@
         },
         {
             "itemdefid": -1,
-
-            "icon_url": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
-            "icon_url_large": 
-            "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Redlight%20monster.png?raw=true",
             "name": "Dash shooter",
             "description": "He's just a lil dude who can dash and shoot.",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
             "store_tags": "Legendary",
-
             "name_color": "4287f5",
-            "background_color": "4287f5", 
-
+            "background_color": "4287f5",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
