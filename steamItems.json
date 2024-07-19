@@ -871,7 +871,7 @@
             "material_properties": [
                 {
                     "slot": 0,
-                    "metallic": 50
+                    "metallic": 20
                 },
                 {
                     "slot": 1,
@@ -1249,7 +1249,14 @@
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/buckets.buckets'",
             "default_colors": "64,64,64;219,175,0",
-            "level_required": 50
+            "level_required": 50,
+
+            "material_properties":[
+                {
+                    "slot": 0,
+                    "metallic": 20
+                }
+            ]
         },
         {
             "itemdefid": -1,
