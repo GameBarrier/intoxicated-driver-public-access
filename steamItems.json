@@ -1120,7 +1120,7 @@
             "game_only": false,
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/wizard_hat.wizard_hat'",
-            "default_colors": "75,0,112;123,0,184",
+            "default_colors": "75,0,112;90,0,150",
             "level_required": 10
         },
         {
