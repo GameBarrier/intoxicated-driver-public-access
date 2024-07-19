@@ -1216,7 +1216,7 @@
             "game_only": false,
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Toilet.Toilet'",
-            "default_colors": "227,227,227;140,140,140",
+            "default_colors": "227,227,227;90,90,90",
             "level_required": 40
         },
         {
