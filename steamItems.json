@@ -1237,6 +1237,10 @@
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/ACEROS_Model.ACEROS_Model'",
             "material_properties": [
                 {
+                    "slot": 0,
+                    "normal_map": "/Script/Engine.Texture2D'/Game/DrunkDriver/Art/Meshes/Hats/ACEROS_Normal.ACEROS_Normal'"
+                },
+                {
                     "slot": 1,
                     "emission": 100
                 }
