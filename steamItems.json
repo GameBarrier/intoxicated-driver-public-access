@@ -1028,7 +1028,7 @@
             "material_properties": [
                 {
                     "slot": 0,
-                    "metallic": 100,
+                    "metallic": 30,
                     "roughness": 10
                 }
             ]
