@@ -6,7 +6,7 @@
             ["Yes", "No"],
         "How do you feel about the difficulty of challenges?": 
             ["To easy", "Just right", "To hard"],
-        "": 
-            ["CTF", "TDM"]
+        "How did you hear about us?": 
+            ["Social media", "A friend", "Steam"]
     }
 }
