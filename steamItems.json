@@ -1099,7 +1099,7 @@
             "game_only": false,
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/Turret_hat.Turret_hat'",
-            "default_colors": "138,138,138;191,0,51",
+            "default_colors": "84,84,84;74,29,29",
             "level_required": 80
         },
         {
