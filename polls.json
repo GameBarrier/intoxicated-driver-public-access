@@ -1,5 +1,5 @@
 {
-    "poll_weight": 0.5,
+    "poll_weight": 0.2,
 
     "polls": {
         "Do you like the capture the flag gamemode?": 
