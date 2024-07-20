@@ -1,4 +1,9 @@
 {
-    "poll A": ["yes", "no"],
-    "poll B": ["1", "2"]
+    "poll_weight": 0.1,
+
+    "polls": {
+        "poll A": ["yes", "no"],
+        "poll B": ["1", "2"],
+        "poll C": ["CTF", "TDM"]
+    }
 }
