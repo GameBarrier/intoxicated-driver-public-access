@@ -4,9 +4,9 @@
     "polls": {
         "Do you like the capture the flag gamemode?": 
             ["Yes", "No"],
-        "poll B": 
-            ["1", "2"],
-        "poll C": 
+        "How do you feel about the difficulty of challenges?": 
+            ["To easy", "Just right", "To hard"],
+        "": 
             ["CTF", "TDM"]
     }
 }
