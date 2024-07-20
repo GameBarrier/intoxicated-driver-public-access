@@ -1122,7 +1122,7 @@
             "game_only": false,
             "unlock_type": "level",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/clock_wheel.clock_wheel'",
-            "default_colors": "200,200,200;163,115,70;0,0,0",
+            "default_colors": "200,200,200;163,115,69;0,0,0",
             "level_required": 90
         },
         {
