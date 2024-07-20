@@ -2,8 +2,11 @@
     "poll_weight": 0.5,
 
     "polls": {
-        "poll A": ["yes", "no"],
-        "poll B": ["1", "2"],
-        "poll C": ["CTF", "TDM"]
+        "Do you like the capture the flag gamemode?": 
+            ["Yes", "No"],
+        "poll B": 
+            ["1", "2"],
+        "poll C": 
+            ["CTF", "TDM"]
     }
 }
