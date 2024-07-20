@@ -2,8 +2,6 @@
     "poll_weight": 0.2,
 
     "polls": {
-        "Do you like the capture the flag gamemode?": 
-            ["Yes", "No"],
         "How do you feel about the difficulty of challenges?": 
             ["To easy", "Just right", "To hard"],
         "How did you hear about us?": 
