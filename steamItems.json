@@ -412,7 +412,7 @@
             "game_only": false,
             "unlock_type": "purchase",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/super_engine.super_engine'",
-            "default_colors": "120,100,100;50,50,50"
+            "default_colors": "120,100,100;0,0,0"
         },
         {
             "itemdefid": 17,
