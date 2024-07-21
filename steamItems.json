@@ -920,7 +920,7 @@
             "game_only": false,
             "unlock_type": "free",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/wheel.wheel'",
-            "default_colors": "10,0,0;50,50,50"
+            "default_colors": "0,0,0;150,150,150"
         },
         {
             "itemdefid": -1,
