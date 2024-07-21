@@ -53,6 +53,11 @@
             "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/ice_cream.ice_cream'",
             "material_properties": [
                 {
+                    "slot": 1,
+                    "metallic": 80,
+                    "roughness": 10
+                },
+                {
                     "slot": 2,
                     "emission": 100
                 }
