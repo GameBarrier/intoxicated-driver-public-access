@@ -897,7 +897,7 @@
             "game_only": false,
             "unlock_type": "free",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Fallback_mesh.Fallback_mesh'",
-            "default_colors": "255,255,255;0,0,0;255,169,0;60,149,0;71,89,108"
+            "default_colors": "50,50,50"
         },
         {
             "itemdefid": -1,
@@ -943,7 +943,13 @@
             "game_only": false,
             "unlock_type": "free",
             "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/taurus.taurus'",
-            "default_colors": "50,50,50"
+            "default_colors": "255,255,255;0,0,0;255,169,0;60,149,0;71,89,108",
+            "material_properties": [
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         },
         {
             "itemdefid": -1,
