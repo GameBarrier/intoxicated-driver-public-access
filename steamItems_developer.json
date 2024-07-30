@@ -1339,7 +1339,7 @@
             "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Voxel%20Miner.png?raw=true",
             "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Voxel%20Miner.png?raw=true",
             "name": "Triple gradient wrap",
-            "description": "A smooth transition from top to bottom, but with 3 colors!",
+            "description": "A smooth transition vertically, but with 3 colors!",
             "display_type": "Wrap",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
