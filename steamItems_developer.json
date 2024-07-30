@@ -1575,8 +1575,8 @@
         },
         {
             "itemdefid": 46,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Supercharger.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Supercharger.png?raw=true",
             "name": "Supercharger",
             "description": "Ready, set, light em' up!",
             "display_type": "Car detail (front) (top)",
@@ -1609,6 +1609,36 @@
                 {
                     "slot": 2,
                     "emission": 200
+                }
+            ]
+        },
+        {
+            "itemdefid": 47,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Supercharger.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Supercharger.png?raw=true",
+            "name": "Mega exhaust",
+            "description": "Just as bad for the climate as it looks cool!",
+            "display_type": "Car detail (front) (bottom)",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/exhaust.exhaust'",
+            "default_colors": "255, 213, 3",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "metallic": 50,
+                    "roughness": 50
                 }
             ]
         }
