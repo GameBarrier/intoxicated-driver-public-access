@@ -1703,8 +1703,8 @@
         },
         {
             "itemdefid": 50,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Race%20Car.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Race%20Car.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Golf%20cart.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Golf%20cart.png?raw=true",
             "name": "Golf cart",
             "description": "Self-driving vehicle to fetch my liquor!",
             "display_type": "Car model",
@@ -1728,7 +1728,7 @@
                     "emission": 100
                 }
             ],
-            "default_colors": "255,255,255;30,30,30;255,255,255;82, 63, 48;181, 181, 181"
+            "default_colors": "255,255,255;30,30,30;255,255,255;82, 63, 48;30, 30, 10"
         }
     ]
 }
