@@ -1670,6 +1670,36 @@
                     "roughness": 10
                 }
             ]
+        },
+        {
+            "itemdefid": 49,
+            "icon_url": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/fancy_wheel.fancy_wheel'",
+            "icon_url_large": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/fancy_wheel.fancy_wheel'",
+            "name": "Fancy wheels",
+            "description": "Looking steady and ready!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Uncommon",
+            "price": "1;VLV100",
+            "name_color": "4287f5",
+            "background_color": "4287f5",
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/fancy_wheel.fancy_wheel'",
+            "default_colors": "219, 219, 219;28, 28, 28",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "roughness": 10,
+                    "metallic": 50
+                }
+            ]
         }
     ]
 }
