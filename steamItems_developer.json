@@ -1673,8 +1673,8 @@
         },
         {
             "itemdefid": 49,
-            "icon_url": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/fancy_wheel.fancy_wheel'",
-            "icon_url_large": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/fancy_wheel.fancy_wheel'",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fancy%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fancy%20wheels.png?raw=true",
             "name": "Fancy wheels",
             "description": "Looking steady and ready!",
             "display_type": "Wheel",
