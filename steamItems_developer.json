@@ -1552,8 +1552,8 @@
         },
         {
             "itemdefid": 45,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fresnel%20wrap.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fresnel%20wrap.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
             "name": "Cat ear headphones",
             "description": "Don't arrest me >w<",
             "display_type": "Hat",
@@ -1572,6 +1572,45 @@
             "unlock_type": "purchase",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/cat_ear_headphone.cat_ear_headphone'",
             "default_colors": "255,255,255;255,110,248;212,178,210"
+        },
+        {
+            "itemdefid": 46,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
+            "name": "Supercharger",
+            "description": "Ready, set, light em' up!",
+            "display_type": "Car detail (front) (top)",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+            "price": "1;VLV200",
+            "name_color": "d93a00",
+            "background_color": "d93a00",
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/supercharger.supercharger'",
+            "default_colors": "46, 46, 46;255, 0, 0;225, 183, 0",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "metallic": 50,
+                    "roughness": 10
+                },
+                {
+                    "slot": 1,
+                    "roughness": 5,
+                    "metallic": 100
+                },
+                {
+                    "slot": 2,
+                    "emission": 200
+                }
+            ]
         }
     ]
 }
