@@ -1796,6 +1796,29 @@
                     "roughness": 10
                 }
             ]
+        },
+        {
+            "itemdefid": 53,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Poop%20emoji.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Poop%20emoji.png?raw=true",
+            "name": "Captain hat",
+            "description": "I'm the captain now!",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/captain_hat.captain_hat'",
+            "default_colors": "255, 255, 255; 0, 0, 0; 235, 210, 52"
         }
     ]
 }

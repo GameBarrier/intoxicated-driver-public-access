@@ -10,8 +10,10 @@ VLV50
 
 
 RARE
-VLV150
-8400ff
+"store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
 
 LEGENDARY
 "store_tags": "Legendary",
