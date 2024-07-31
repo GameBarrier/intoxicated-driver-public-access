@@ -1763,6 +1763,39 @@
                     "emission": 30
                 }
             ]
+        },
+        {
+            "itemdefid": 52,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Racing%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Racing%20wheels.png?raw=true",
+            "name": "Poop emoji",
+            "description": "Flushing down the competition!",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Uncommon",
+            "price": "1;VLV100",
+            "name_color": "4287f5",
+            "background_color": "4287f5",
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/poop.poop'",
+            "default_colors": "64,37,23; 255, 255, 255; 0, 0, 0; 255, 255, 255",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "roughness": 70
+                },
+                {
+                    "slot": 1,
+                    "roughness": 10
+                }
+            ]
         }
     ]
 }

@@ -1,10 +1,13 @@
 UNCOMMON
+"store_tags": "Uncommon",
+            "price": "1;VLV100",
+            "name_color": "4287f5",
+            "background_color": "4287f5",
+
+COMMON
 VLV50
 919191
 
-COMMON
-VLV100
-4287f5
 
 RARE
 VLV150
@@ -12,6 +15,6 @@ VLV150
 
 LEGENDARY
 "store_tags": "Legendary",
-"price": "1;VLV200",
-"name_color": "ffbf00",
-"background_color": "ffbf00",
+            "price": "1;VLV200",
+            "name_color": "ffbf00",
+            "background_color": "ffbf00",
