@@ -1729,6 +1729,40 @@
                 }
             ],
             "default_colors": "255,255,255;30,30,30;255,255,255;82, 63, 48;30, 30, 10"
+        },
+        {
+            "itemdefid": 51,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fancy%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Fancy%20wheels.png?raw=true",
+            "name": "Racing wheels",
+            "description": "Looking steady and ready!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+            "price": "1;VLV200",
+            "name_color": "ffbf00",
+            "background_color": "ffbf00",
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/racing_wheels.racing_wheels'",
+            "default_colors": "100, 100, 100;28, 28, 28; 0, 0, 255",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "roughness": 10,
+                    "metallic": 50
+                },
+                {
+                    "slot": 2,
+                    "emission": 30
+                }
+            ]
         }
     ]
 }

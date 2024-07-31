@@ -1,0 +1,17 @@
+UNCOMMON
+VLV50
+919191
+
+COMMON
+VLV100
+4287f5
+
+RARE
+VLV150
+8400ff
+
+LEGENDARY
+"store_tags": "Legendary",
+"price": "1;VLV200",
+"name_color": "ffbf00",
+"background_color": "ffbf00",
