@@ -1822,8 +1822,8 @@
         },
         {
             "itemdefid": 54,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Captain%20hat.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Captain%20hat.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Horns.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Horns.png?raw=true",
             "name": "Horns",
             "description": "If your car horn doesn't work, you still have these!",
             "display_type": "Hat",
@@ -1846,11 +1846,49 @@
                 {
                     "slot": 0,
                     "metallic": 100,
-                    "roughness": 0
+                    "roughness": 50
                 },
                 {
                     "slot": 1,
                     "emission": 100
+                }
+            ]
+        },
+        {
+            "itemdefid": 55,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Horns.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Horns.png?raw=true",
+            "name": "Hungry Mouth",
+            "description": "How did you know I was british?",
+            "display_type": "Car detail (front) (top)",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+            "price": "1;VLV200",
+            "name_color": "ffbf00",
+            "background_color": "ffbf00",
+            "quantity": 1,
+            "type": "item",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": true,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/CarDetails/mouth.mouth'",
+            "default_colors": "235, 235, 235; 184, 90, 90; 255, 255, 255",
+            "material_properties":[
+                {
+                    "slot": 0,
+                    "metallic": 30,
+                    "roughness": 10
+                },
+                {
+                    "slot": 1,
+                    "roughness": 100
+                },
+                {
+                    "slot": 2,
+                    "roughness": 20
                 }
             ]
         }
