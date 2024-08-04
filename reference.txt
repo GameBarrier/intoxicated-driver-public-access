@@ -20,3 +20,9 @@ LEGENDARY
             "price": "1;VLV200",
             "name_color": "ffbf00",
             "background_color": "ffbf00",
+
+WASTED
+"store_tags": "Wasted",
+            "price": "1;VLV500",
+            "name_color": "d93a00",
+            "background_color": "d93a00",
