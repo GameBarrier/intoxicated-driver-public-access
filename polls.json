@@ -5,6 +5,8 @@
         "How do you feel about the graphics?":
             ["Not great", "Good", "Very good"],
         "How is the performance of the game?":
-            ["Not great", "Good", "Very good"]
+            ["Not great", "Good", "Very good"],
+        "Do you think the game is ready to release out of beta?":
+            ["Not at all", "Almost", "Yes"]
     }
 }
