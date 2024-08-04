@@ -2,11 +2,9 @@
     "poll_weight": 0.2,
 
     "polls": {
-        "How do you feel about the difficulty of challenges?": 
-            ["To easy", "Just right", "To hard"],
-        "How did you hear about us?": 
-            ["Social media", "A friend", "Steam"],
-        "Would you like to see username's above players?":
-            ["Yes", "No"]
+        "How do you feel about the graphics?":
+            ["Not great", "Good", "Very good"],
+        "How is the performance of the game?":
+            ["Not great", "Good", "Very good"]
     }
 }
