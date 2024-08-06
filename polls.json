@@ -9,6 +9,6 @@
         "Do you think the game is ready to release out of beta?":
             ["Not at all", "Almost", "Yes"],
         "Did you know that there are game options for car sizes, fog, damage, ...":
-            ["No, it's not clear", "Yes"]
+            ["No", "Yes"]
     }
 }

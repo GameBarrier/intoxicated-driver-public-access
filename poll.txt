@@ -1,2 +1,0 @@
-Yes;No;
-Do you like the capture the flag gamemode?
