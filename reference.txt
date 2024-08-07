@@ -24,5 +24,5 @@ LEGENDARY
 WASTED
 "store_tags": "Wasted",
             "price": "1;VLV500",
-            "name_color": "ffe669",
-            "background_color": "ffe669",
+            "name_color": "ff0000",
+            "background_color": "ff0000",
