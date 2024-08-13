@@ -1,6 +1,6 @@
 {
     "achievements":{
-        "level": {
+        "Level": {
             "reach_level_10": {
                 "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/2f227773b2cc61b9c50e7dc85fa3751edfbd30e6.jpg",
                 "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/b0a88dbe657790618c47bda035c26e5ddff9c107.jpg"
