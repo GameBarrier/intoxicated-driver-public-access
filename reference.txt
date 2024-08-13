@@ -1,13 +1,15 @@
+
+COMMON
+"store_tags": "Common",
+            "price": "1;VLV50",
+            "name_color": "919191",
+            "background_color": "919191",
+
 UNCOMMON
 "store_tags": "Uncommon",
             "price": "1;VLV100",
             "name_color": "4287f5",
             "background_color": "4287f5",
-
-COMMON
-VLV50
-919191
-
 
 RARE
 "store_tags": "Rare",
