@@ -1,0 +1,16 @@
+{
+    "achievements":{
+        "level": [
+            "reach_level_10",
+            "reach_level_20",
+            "reach_level_30",
+            "reach_level_40",
+            "reach_level_50",
+            "reach_level_60",
+            "reach_level_70",
+            "reach_level_80",
+            "reach_level_90",
+            "reach_level_100"
+        ]
+    }
+}
