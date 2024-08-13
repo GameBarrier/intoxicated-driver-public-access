@@ -2091,7 +2091,29 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "item_ids_contained": "16,18,19,46"
+            "item_ids_contained": "16,18,19,46,37"
+        },
+        {
+            "itemdefid": "65",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Supercharger.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Supercharger.png?raw=true",
+            "name": "Pure alcohol bundle",
+            "description": "Just one more beer...",
+            "display_type": "Bundle",
+            "item_slot": "Bundle",
+            "store_tags": "Legendary",
+            "price": "1;VLV300",
+            "name_color": "42f5e0",
+            "background_color": "42f5e0",
+            "quantity": "1",
+            "type": "bundle",
+            "tradeable": "false",
+            "marketable": "false",
+            "hidden": "false",
+            "store_hidden": "false",
+            "game_only": "false",
+            "unlock_type": "purchase",
+            "item_ids_contained": "31,11,12,13,40,47"
         }
     ]
 }
