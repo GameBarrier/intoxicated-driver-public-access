@@ -63,6 +63,28 @@
                 "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/e3c743b85628a26bf5583fdf083b767012c53248.jpg",
                 "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/2abfb1062430a37d600127ee2f103bf6e840e87f.jpg"
             }
+        },
+        "Games played": {
+            "games_played_20": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/9a4e50c6b47b0761c3bb18d7132b8eb4e74a22ea.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/ccdd0e80842d2777dd2e8e6c3e9dcade22cc457e.jpg"
+            },
+            "games_played_40": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/65b49f7eb7e99f45c96b0096189ced776e83c9e2.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/7b3720ee3141c66df057faf15bf91330471db8cd.jpg"
+            },
+            "games_played_60": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/82921304607aba20cd21752aa962976cb14702f8.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/36c77b4e8c189e02af460d375457818b2927187e.jpg"
+            },
+            "games_played_80": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/e6ec336bed6b5d31809b06afe808dc54a6d4a2ed.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/dec01fdf95b25b468555037e04178ac1a65ec3e2.jpg"
+            },
+            "games_played_100": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/bed38fec556573ad6a874f160c046d2f7188e725.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/932891275bf8e1c6c821c90244ed2fb1d63e9e52.jpg"
+            }
         }
     }
 }
