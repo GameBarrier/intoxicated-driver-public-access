@@ -1,16 +1,46 @@
 {
     "achievements":{
-        "level": [
-            "reach_level_10",
-            "reach_level_20",
-            "reach_level_30",
-            "reach_level_40",
-            "reach_level_50",
-            "reach_level_60",
-            "reach_level_70",
-            "reach_level_80",
-            "reach_level_90",
-            "reach_level_100"
-        ]
+        "level": {
+            "reach_level_10": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/2f227773b2cc61b9c50e7dc85fa3751edfbd30e6.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/b0a88dbe657790618c47bda035c26e5ddff9c107.jpg"
+            },
+            "reach_level_20": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/95d2113f80ec6555312b872855a5ec1ba00b5ea7.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/639df5e2db96c6d8941d68bea7d033ca59fd7999.jpg"
+            },
+            "reach_level_30": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/0b1795dc2729a25988ad38da995d96d91fbd16f8.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/8b0ac70ddc90841a30d360498b36a2df1d44ad52.jpg"
+            },
+            "reach_level_40": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/eab79fc92d2d8ba22cce9864554ee1f7d8c9b99a.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/26872b99117936398f543ac8100daf719d1ef1e8.jpg"
+            },
+            "reach_level_50": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/11540b4788acb7e115ac476efcafdd0f41065b0d.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/f0b0dc518184b82acab5ab318bf9694ed974a8d1.jpg"
+            },
+            "reach_level_60": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/5a6c1cb65e5d0a2f89d1820c762c2dfd611000e6.jpg ",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/6123713179262e4129c80f446679aeabf8dd1238.jpg"
+            },
+            "reach_level_70": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/e56b1f2a4e61e3139a34cd997fcaa13e71e2e0c7.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/608cc03f21533262d0da52c69a63eb374762504f.jpg"
+            },
+            "reach_level_80": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/cdad6b4f962a2408d207bf601df0a1cf03ebef93.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/8541847f7d759f33c4063d8d031aa23c61e88244.jpg"
+            },
+            "reach_level_90": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/301eb2db40f3417cd406ec1aa0814ca6f3ee2ee4.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/32e2fa309086557ad681cfd3361ab7366830d830.jpg"
+            },
+            "reach_level_100": {
+                "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/fea3ac33617d079d38f1d0f0cef606e33374f6ed.jpg",
+                "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/5fd96f514badd005876a507f3fe914cd56c71223.jpg"
+            }
+        }
     }
 }
