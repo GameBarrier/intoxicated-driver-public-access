@@ -25,7 +25,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 50
                 }
             ],
             "default_colors": "255,150,84;181,64,9;255,255,0;255,255,0;255,0,0"
@@ -64,7 +64,7 @@
                 },
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "50,96,168;0,255,255;255,255,0;0,255,0;177,255,255"
@@ -93,7 +93,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;0,0,0;255,255,255,0,34,0;0,0,0;77,85,99"
@@ -363,11 +363,11 @@
             "material_properties": [
                 {
                     "slot": 0,
-                    "emission": 100
+                    "emission": 40
                 },
                 {
                     "slot": 1,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,0;255,255,0"
@@ -638,7 +638,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "0,0,0;255,255,255;255,255,255;0,179,0;30,50,50"
@@ -688,7 +688,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;255,0,0;255,255,0;255,0,0;107,176,255"
@@ -777,7 +777,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,0;76,55,0;255,255,0;0,61,0;0,0,255"
@@ -806,7 +806,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;255,0,0;0,255,0;55,74,0;100,100,200"
@@ -881,7 +881,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "37,0,255;0,255,0;0,255,0;255,0,80;93,0,168"
@@ -1210,11 +1210,11 @@
             "material_properties": [
                 {
                     "slot": 0,
-                    "emission": 200
+                    "emission": 50
                 },
                 {
                     "slot": 1,
-                    "emission": 100
+                    "emission": 25
                 }
             ],
             "default_colors": "255,204,0;255,255,255",
@@ -1304,7 +1304,7 @@
                 },
                 {
                     "slot": 1,
-                    "emission": 100
+                    "emission": 50
                 }
             ],
             "app_id_required": "2113220",
@@ -1608,7 +1608,7 @@
                 },
                 {
                     "slot": 2,
-                    "emission": 200
+                    "emission": 100
                 }
             ]
         },
@@ -1725,7 +1725,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;30,30,30;255,255,255;82, 63, 48;30, 30, 10"
