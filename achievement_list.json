@@ -41,6 +41,28 @@
                 "icon_unlocked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/fea3ac33617d079d38f1d0f0cef606e33374f6ed.jpg",
                 "icon_locked": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2701080/5fd96f514badd005876a507f3fe914cd56c71223.jpg"
             }
+        },
+        "Traveling": {
+            "travel_distance_5km": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/b244dfbdaaf7ea5fa1f2246490c31c87e4582c7b.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/34397c26b760549fc5ac843b445c3a280b1004c7.jpg"
+            },
+            "travel_distance_15km": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/ae5882166946c5301f9824ac9e2f3e6be00390e9.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/e315695aca0a212ce7de19679b03a745060ea396.jpg"
+            },
+            "travel_distance_30km": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/2044d4e36e3f15d8e9b3b5c71eed087d7c5f73c6.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/480e1ab5bd9725e7864c8e7235b6928fc08ed45e.jpg"
+            },
+            "travel_distance_60km": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/9bd66255b36735a9c79ffcb3d1f44fdb355d71b6.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/fdfed6289356ba7a12ba1d2d4b2a39d4fe47e4dc.jpg"
+            },
+            "travel_distance_100km": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/e3c743b85628a26bf5583fdf083b767012c53248.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/2abfb1062430a37d600127ee2f103bf6e840e87f.jpg"
+            }
         }
     }
 }
