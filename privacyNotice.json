@@ -1,10 +1,10 @@
 {
     "last_updated": "13/08/2024",
     "content":{
-        "Introduction": "Intoxicated Driver (\"we,\" \"our,\" \"us\") values your privacy. This notice explains what data we collect during gameplay and how we use it.",
-        "Data we collect": "- Gameplay Data: Levels played, game modes selected, level, .... \n- Device Information: Basic details like device type and operating system.",
-        "Why We Collect Data": "- Improve Gameplay: To enhance game features and user experience. \n- Analytics: To understand player behavior and improve the game.",
-        "Third-Party Services": "We use google analytics to gather data, we will never share your data with any thid-parties",
+        "Introduction": "This notice explains what data we collect during gameplay and how we use it.",
+        "Data we collect": "- Gameplay Data: Maps/gamemodes played, challenges completed, leveling results, poll results, etc .... \n- Device Information: Operating system.",
+        "Why We Collect Data": "- Improve Gameplay: To enhance game features and user experience. \n- Analytics: To understand what features are liked/disliked.",
+        "Third-Party Services": "We use Google Analytics to gather data, we will never share your data with any third-parties",
         "Contact Us": "For questions, contact us on our discord"
     }
 }
