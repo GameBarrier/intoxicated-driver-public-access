@@ -9,6 +9,8 @@
         "Do you think the game is ready to release out of beta?":
             ["Not at all", "Almost", "Yes"],
         "Did you know that there are game options for car sizes, fog, damage, ...":
-            ["No", "Yes"]
+            ["No", "Yes"],
+        "How did you hear about us?": 
+            ["Social media", "A friend", "Steam"]
     }
 }
