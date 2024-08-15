@@ -127,6 +127,28 @@
                 "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/bed38fec556573ad6a874f160c046d2f7188e725.jpg",
                 "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/932891275bf8e1c6c821c90244ed2fb1d63e9e52.jpg"
             }
+        },
+        "Go trough flaming hoops": {
+            "drive_trough_flaming_hoops_20": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/01fc4f2a4b105365a483116bfd8d1ca5c70b4341.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/021bc696f4fa3a6266f7696aa8fd7cf1100691b4.jpg"
+            },
+            "drive_trough_flaming_hoops_40": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/c1aeb1cb58f54244a4a632e2a49d8a9f4bdd3772.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/1cb8ad48069622d7c362e632c66d8fb7ed9bb2fe.jpg"
+            },
+            "drive_trough_flaming_hoops_60": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/47c43264fa18281c7d049a54e12632e2bc73f0b4.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/dfbe2c44a47933767935ac405ac1d774a3644be5.jpg"
+            },
+            "drive_trough_flaming_hoops_80": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/114cafd1428e2ad94d23ccfa8571eadcaf1da7c8.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/ead290f791d377805d0affd3a3fb5d48981464fc.jpg"
+            },
+            "drive_trough_flaming_hoops_100": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/255b956f2e3f1210277d7d4eb8f9247dbabab614.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/40f634193691eb2e79ac165fe065684e28bfcc83.jpg"
+            }
         }
     }
 }
