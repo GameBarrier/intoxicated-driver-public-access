@@ -128,6 +128,28 @@
                 "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/932891275bf8e1c6c821c90244ed2fb1d63e9e52.jpg"
             }
         },
+        "Challenges completed": {
+            "challenges_completed_20": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/a4f95406c9896dc3bf705eb75d5f309624f74d9a.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/17dc4dc504c775e0c94109cd7c1bf1e29d28e425.jpg"
+            },
+            "challenges_completed_40": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/8bda6963502dd0d5c5acc2bac29c8c63a1da5d47.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/098460d8b3e0b0199c29057380a72c145b0c588e.jpg"
+            },
+            "challenges_completed_60": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/2f144acea729e4af08a72ae3d3210e27d39b81f5.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/6e146f1fca694fe64b94cd37431c478fd59238f0.jpg"
+            },
+            "challenges_completed_80": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/661dc5748656d45575a7a147d4f941fc34bf662a.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/a804e1ad62f13a9ae6757a499d29f8ecb0558be3.jpg"
+            },
+            "challenges_completed_100": {
+                "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/82a286bbc52e356c91e3fbccd700aa27200fb0a4.jpg",
+                "icon_locked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/f4523243ba4d334b19cc977cb07c0a7a992ff9dd.jpg"
+            }
+        },
         "Go trough flaming hoops": {
             "drive_trough_flaming_hoops_20": {
                 "icon_unlocked": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701080/01fc4f2a4b105365a483116bfd8d1ca5c70b4341.jpg",
