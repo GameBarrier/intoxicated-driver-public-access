@@ -1,0 +1,15 @@
+"lang"
+{
+	"Language"	"english"
+	"Tokens"
+	{
+		"#StatusWithoutScore"	"{#Status_%gamestatus%}"
+		"#StatusWithScore"	"%SCORE%"
+		"#Status"	"{#Status_%gamestatus%}: %SCORE%"
+		"#Status_AtMainMenu"	"At the main menu"
+		"#Status_WaitingForMatch"	"Waiting for match"
+		"#Status_Winning"	"Winning"
+		"#Status_Losing"	"Losing"
+		"#Status_Tied"	"Tied"
+	}
+}
