@@ -25,7 +25,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 50
                 }
             ],
             "default_colors": "255,150,84;181,64,9;255,255,0;255,255,0;255,0,0"
@@ -53,18 +53,8 @@
             "mesh_path": "/Script/Engine.SkeletalMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Pickup/ice_cream.ice_cream'",
             "material_properties": [
                 {
-                    "slot": 0,
-                    "metallic": 60,
-                    "roughness": 5
-                },
-                {
-                    "slot": 1,
-                    "metallic": 60,
-                    "roughness": 10
-                },
-                {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "50,96,168;0,255,255;255,255,0;0,255,0;177,255,255"
@@ -93,7 +83,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;0,0,0;255,255,255,0,34,0;0,0,0;77,85,99"
@@ -363,11 +353,11 @@
             "material_properties": [
                 {
                     "slot": 0,
-                    "emission": 100
+                    "emission": 40
                 },
                 {
                     "slot": 1,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,0;255,255,0"
@@ -638,7 +628,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "0,0,0;255,255,255;255,255,255;0,179,0;30,50,50"
@@ -688,7 +678,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;255,0,0;255,255,0;255,0,0;107,176,255"
@@ -761,10 +751,10 @@
             "description": "That's totally bananas!",
             "display_type": "Car model",
             "item_slot": "Cosmetic",
-            "store_tags": "Wasted",
-            "price": "1;VLV500",
-            "name_color": "ff0000",
-            "background_color": "ff0000",
+            "store_tags": "Legendary",
+            "price": "1;VLV200",
+            "name_color": "ffbf00",
+            "background_color": "ffbf00",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -777,7 +767,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,0;76,55,0;255,255,0;0,61,0;0,0,255"
@@ -806,7 +796,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;255,0,0;0,255,0;55,74,0;100,100,200"
@@ -881,7 +871,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "37,0,255;0,255,0;0,255,0;255,0,80;93,0,168"
@@ -1210,11 +1200,11 @@
             "material_properties": [
                 {
                     "slot": 0,
-                    "emission": 200
+                    "emission": 50
                 },
                 {
                     "slot": 1,
-                    "emission": 100
+                    "emission": 25
                 }
             ],
             "default_colors": "255,204,0;255,255,255",
@@ -1304,7 +1294,7 @@
                 },
                 {
                     "slot": 1,
-                    "emission": 100
+                    "emission": 50
                 }
             ],
             "app_id_required": "2113220",
@@ -1558,10 +1548,10 @@
             "description": "Don't arrest me >w<",
             "display_type": "Hat",
             "item_slot": "Cosmetic",
-            "store_tags": "Wasted",
-            "price": "1;VLV500",
-            "name_color": "ff0000",
-            "background_color": "ff0000",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
             "quantity": 1,
             "type": "item",
             "tradeable": false,
@@ -1608,7 +1598,7 @@
                 },
                 {
                     "slot": 2,
-                    "emission": 200
+                    "emission": 100
                 }
             ]
         },
@@ -1725,7 +1715,7 @@
             "material_properties": [
                 {
                     "slot": 2,
-                    "emission": 100
+                    "emission": 40
                 }
             ],
             "default_colors": "255,255,255;30,30,30;255,255,255;82, 63, 48;30, 30, 10"
@@ -1966,11 +1956,11 @@
             "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20mobile.png?raw=true",
             "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Banana%20mobile.png?raw=true",
             "name": "Banana bundle",
-            "description": "It's just to a-peel-ing!",
+            "description": "It's just too a-peel-ing!",
             "display_type": "Bundle",
             "item_slot": "Bundle",
             "store_tags": "Legendary",
-            "price": "1;VLV600",
+            "price": "1;VLV400",
             "name_color": "fff536",
             "background_color": "fff536",
             "quantity": 1,
@@ -1992,7 +1982,7 @@
             "display_type": "Bundle",
             "item_slot": "Bundle",
             "store_tags": "Legendary",
-            "price": "1;VLV1400",
+            "price": "1;VLV1050",
             "name_color": "55ff42",
             "background_color": "55ff42",
             "quantity": 1,
@@ -2036,7 +2026,7 @@
             "display_type": "Bundle",
             "item_slot": "Bundle",
             "store_tags": "Legendary",
-            "price": "1;VLV200",
+            "price": "1;VLV450",
             "name_color": "3849ff",
             "background_color": "3849ff",
             "quantity": 1,
@@ -2048,6 +2038,72 @@
             "game_only": false,
             "unlock_type": "purchase",
             "item_ids_contained": "25,17,42,51"
+        },
+        {
+            "itemdefid": 63,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
+            "name": "Gradient bundle",
+            "description": "Multicolor goodness for days!",
+            "display_type": "Bundle",
+            "item_slot": "Bundle",
+            "store_tags": "Legendary",
+            "price": "1;VLV300",
+            "name_color": "a7f542",
+            "background_color": "a7f542",
+            "quantity": 1,
+            "type": "bundle",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "item_ids_contained": "35,36,41"
+        },
+        {
+            "itemdefid": 64,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Engine.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Super%20Engine.png?raw=true",
+            "name": "Apocalypse bundle",
+            "description": "For when there is no more beer in stock!",
+            "display_type": "Bundle",
+            "item_slot": "Bundle",
+            "store_tags": "Legendary",
+            "price": "1;VLV500",
+            "name_color": "f59042",
+            "background_color": "f59042",
+            "quantity": 1,
+            "type": "bundle",
+            "tradeable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "item_ids_contained": "16,18,19,46,37"
+        },
+        {
+            "itemdefid": "65",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Daddy's%20dump%20truck.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Daddy's%20dump%20truck.png?raw=true",
+            "name": "Pure alcohol bundle",
+            "description": "Just one more beer...",
+            "display_type": "Bundle",
+            "item_slot": "Bundle",
+            "store_tags": "Legendary",
+            "price": "1;VLV450",
+            "name_color": "42f5e0",
+            "background_color": "42f5e0",
+            "quantity": "1",
+            "type": "bundle",
+            "tradeable": "false",
+            "marketable": "false",
+            "hidden": "false",
+            "store_hidden": "false",
+            "game_only": "false",
+            "unlock_type": "purchase",
+            "item_ids_contained": "31,11,12,13,40,47"
         }
     ]
 }
