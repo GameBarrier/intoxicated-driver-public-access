@@ -13,10 +13,10 @@
         "How did you hear about us?": 
             ["Social media", "A friend", "Steam"],
         "How do you feel about the discount of bundles?": 
-            ["To low", "Fair", "To high"],
+            ["Too low", "Fair", "To high"],
         "Would you like more bundles in the store at the same time?":
             ["No", "I don't know", "Yes"],
         "Do bundles contain enough items?":
-            ["No", "Just right", "To much"]
+            ["No", "Just right", "Too much"]
     }
 }
