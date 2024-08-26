@@ -17,6 +17,8 @@
         "Would you like more bundles in the store at the same time?":
             ["No", "I don't know", "Yes"],
         "Do bundles contain enough items?":
-            ["No", "Just right", "Too much"]
+            ["No", "Just right", "Too much"],
+        "How did you find the game?":
+            ["A friend", "A content creator", "Browsing steam"]
     }
 }
