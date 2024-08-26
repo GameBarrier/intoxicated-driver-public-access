@@ -19,6 +19,6 @@
         "Do bundles contain enough items?":
             ["No", "Just right", "Too much"],
         "How did you find the game?":
-            ["A friend", "Content creator", "steam", "Other"]
+            ["A friend", "Content creator", "Steam", "Other"]
     }
 }
