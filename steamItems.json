@@ -2038,6 +2038,35 @@
             "game_only": false,
             "unlock_type": "purchase",
             "item_ids_contained": "25,17,42,51"
+        },
+        {
+            "itemdefid": -1,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Support%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Support%20wheels.png?raw=true",
+            "name": "Support wheels",
+            "description": "Thank you for your support! Join our Discord to receive these wheels for free!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Uncommon",
+            "name_color": "4287f5",
+            "background_color": "4287f5",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/support_wheels.support_wheels'",
+            "unlock_type": "discord",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "metallic": 80,
+                    "roughness": 10
+                }
+            ],
+            "default_colors": "228, 103, 240"
         }
     ]
 }
