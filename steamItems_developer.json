@@ -2004,7 +2004,7 @@
             "display_type": "Bundle",
             "item_slot": "Bundle",
             "store_tags": "Legendary",
-            "price": "1;VLV200",
+            "price": "1;VLV250",
             "name_color": "38d1ff",
             "background_color": "38d1ff",
             "quantity": 1,
@@ -2015,7 +2015,7 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "item_ids_contained": "2,23"
+            "item_ids_contained": "2,23,48"
         },
         {
             "itemdefid": 62,
