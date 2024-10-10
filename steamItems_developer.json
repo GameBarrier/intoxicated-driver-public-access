@@ -2133,6 +2133,27 @@
                 }
             ],
             "default_colors": "228, 103, 240"
+        },
+        {
+            "itemdefid": 66,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/special/all_buyable_cosmetics.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/special/all_buyable_cosmetics.png?raw=true",
+            "name": "All buyable items pass",
+            "description": "Unlocks all buyable items instantly! (does not include level rewards)",
+            "display_type": "Special",
+            "item_slot": "Special item",
+            "store_tags": "Legendary",
+            "price": "1;VLV2500",
+            "name_color": "fff200",
+            "background_color": "fff200",
+            "quantity": "1",
+            "type": "item",
+            "tradable": "false",
+            "marketable": "false",
+            "hidden": "false",
+            "store_hidden": "false",
+            "game_only": "false",
+            "unlock_type": "purchase"
         }
     ]
 }
