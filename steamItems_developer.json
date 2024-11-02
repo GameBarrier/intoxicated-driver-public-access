@@ -2295,8 +2295,8 @@
         },
         {
             "itemdefid": 72,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snow%20Wrap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snow%20Wrap.png?raw=true",
             "name": "Snow Wrap",
             "description": "It's the most drunk time of the year!",
             "display_type": "Wrap",
@@ -2319,8 +2319,8 @@
         },
         {
             "itemdefid": 73,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wrapping%20Paper%20Wrap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wrapping%20Paper%20Wrap.png?raw=true",
             "name": "Wrapping Paper Wrap",
             "description": "I wonder what's inside...",
             "display_type": "Wrap",
