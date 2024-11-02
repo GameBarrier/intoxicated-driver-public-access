@@ -2422,6 +2422,28 @@
             "game_only": false,
             "unlock_type": "purchase",
             "item_ids_contained": "72, 73, 74, 75"
+        },
+        {
+            "itemdefid": -1,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wizard%20hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Wizard%20hat.png?raw=true",
+            "name": "Snowball Wheels",
+            "description": "Collect all presents to unlock!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+            "name_color": "ffffff",
+            "background_color": "ffffff",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "christmass_challenge",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/snowball_wheel.snowball_wheel'",
+            "default_colors": "255, 255, 255"
         }
     ]
 }
