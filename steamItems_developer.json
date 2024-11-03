@@ -2421,7 +2421,7 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "item_ids_contained": "72, 73, 74, 75"
+            "item_ids_contained": "72, 73, 74, 75, 78"
         },
         {
             "itemdefid": -1,
@@ -2444,6 +2444,39 @@
             "unlock_type": "christmass_challenge",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/snowball_wheel.snowball_wheel'",
             "default_colors": "255, 255, 255"
+        },
+        {
+            "itemdefid": 78,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spoiler.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Spoiler.png?raw=true",
+            "name": "Christmass Lights",
+            "description": "Looks even more crazy when drunk!",
+            "display_type": "Car detail (back) (top)",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/ChristmassLights.ChristmassLights'",
+            "default_colors": "20, 20, 20; 255, 0, 0; 0, 0, 255",
+            "material_properties":[
+                {
+                    "slot": 1,
+                    "emission": 100
+                },
+                {
+                    "slot": 2,
+                    "emission": 100
+                }
+            ]
         }
     ]
 }
