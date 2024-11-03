@@ -2410,7 +2410,7 @@
             "display_type": "Bundle",
             "item_slot": "Bundle",
             "store_tags": "Legendary",
-            "price": "1;VLV500",
+            "price": "1;VLV600",
             "name_color": "00ff1b",
             "background_color": "00ff1b",
             "quantity": 1,
@@ -2421,7 +2421,7 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "item_ids_contained": "72, 73, 74, 75, 78"
+            "item_ids_contained": "72, 73, 74, 75, 78, 79, 80"
         },
         {
             "itemdefid": -1,
@@ -2480,8 +2480,8 @@
         },
         {
             "itemdefid": 79,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Support%20wheels.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Support%20wheels.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Christmass%20Ball%20Wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Christmass%20Ball%20Wheels.png?raw=true",
             "name": "Christmass Ball Wheels",
             "description": "No funny description, I hope you are doing well :)",
             "display_type": "Wheel",
@@ -2512,6 +2512,47 @@
                 }
             ],
             "default_colors": "255, 94, 94; 255, 212, 15"
+        },
+        {
+            "itemdefid": 80,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Christmass%20Ball%20Wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Christmass%20Ball%20Wheels.png?raw=true",
+            "name": "Snow Globe",
+            "description": "I sure hope noone is inside!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+            "price": "1;VLV200",
+            "name_color": "ffbf00",
+            "background_color": "ffbf00",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/ChristmassSnowGlobe.ChristmassSnowGlobe'",
+            "unlock_type": "purchase",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "material_override": "/Script/Engine.Material'/Game/DrunkDriver/Art/SnowglobeGlass.SnowglobeGlass'"
+                },
+                {
+                    "slot": 4,
+                    "emission": 100
+                },
+                {
+                    "slot": 5,
+                    "emission": 100
+                },
+                {
+                    "slot": 6,
+                    "emission": 100
+                }
+            ],
+            "default_colors": "150, 253, 255; 89, 58, 33; 89, 58, 33; 74, 156, 36; 0, 0, 255; 255, 0, 0; 255, 0, 255"
         }
     ]
 }
