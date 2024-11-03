@@ -2410,7 +2410,7 @@
             "display_type": "Bundle",
             "item_slot": "Bundle",
             "store_tags": "Legendary",
-            "price": "1;VLV400",
+            "price": "1;VLV500",
             "name_color": "00ff1b",
             "background_color": "00ff1b",
             "quantity": 1,
@@ -2477,6 +2477,41 @@
                     "emission": 100
                 }
             ]
+        },
+        {
+            "itemdefid": 79,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Support%20wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Support%20wheels.png?raw=true",
+            "name": "Christmass Ball Wheels",
+            "description": "No funny description, I hope you are doing well :)",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/christmass_ball.christmass_ball'",
+            "unlock_type": "purchase",
+            "material_properties": [
+                {
+                    "slot": 0,
+                    "metallic": 80,
+                    "roughness": 10
+                },
+                {
+                    "slot": 0,
+                    "metallic": 80,
+                    "roughness": 10
+                }
+            ],
+            "default_colors": "255, 94, 94; 255, 212, 15"
         }
     ]
 }
