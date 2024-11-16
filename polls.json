@@ -1,23 +1,11 @@
 {
-    "poll_weight": 0.2,
+    "poll_weight": 0.3,
 
     "polls": {
-        "How do you feel about the graphics?":
-            ["Not great", "Good", "Very good"],
-        "How is the performance of the game?":
-            ["Not great", "Good", "Very good"],
-        "Do you think the game is ready to release out of beta?":
+        "How do you like time-limited events?":
             ["Not at all", "Almost", "Yes"],
-        "Did you know that there are game options for car sizes, fog, damage, ...":
-            ["No", "Yes"],
         "How did you hear about us?": 
             ["Social media", "A friend", "Steam"],
-        "How do you feel about the discount of bundles?": 
-            ["Too low", "Fair", "To high"],
-        "Would you like more bundles in the store at the same time?":
-            ["No", "I don't know", "Yes"],
-        "Do bundles contain enough items?":
-            ["No", "Just right", "Too much"],
         "How did you find the game?":
             ["A friend", "Content creator", "Steam", "Other"]
     }
