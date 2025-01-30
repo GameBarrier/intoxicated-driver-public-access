@@ -2553,6 +2553,28 @@
                 }
             ],
             "default_colors": "150, 253, 255; 89, 58, 33; 89, 58, 33; 74, 156, 36; 0, 0, 255; 255, 0, 0; 255, 0, 255"
+        },
+        {
+            "itemdefid": -1,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snowball%20Wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Snowball%20Wheels.png?raw=true",
+            "name": "Birthday Cake Wheels",
+            "description": "Consume enough birthday cakes to unlock!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Legendary",
+            "name_color": "9ee4ff",
+            "background_color": "9ee4ff",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "birthday_challenge",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/birthday_cake_wheels.birthday_cake_wheels'",
+            "default_colors": "250, 151, 142; 240, 202, 199; 255, 255, 255"
         }
     ]
 }
