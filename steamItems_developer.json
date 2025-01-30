@@ -2575,6 +2575,29 @@
             "unlock_type": "birthday_challenge",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/birthday_cake_wheels.birthday_cake_wheels'",
             "default_colors": "250, 151, 142; 240, 202, 199; 255, 255, 255"
+        },
+        {
+            "itemdefid": 81,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Christmass%20Tree.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Christmass%20Tree.png?raw=true",
+            "name": "Cake Hat",
+            "description": "Alcohol flavoured cake! My favorite!",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/cake_hat.cake_hat'",
+            "default_colors": "64, 26, 0; 255, 247, 230; 228, 236, 240"
         }
     ]
 }
