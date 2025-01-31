@@ -5,15 +5,17 @@
         {
             "title": "Birthday update!",
             "description": "Thank you all for playing for the last year! Enjoy this limited time event: Eat pieces of cake to heal, gain a boost, and unlock the free Birthday Cake Wheels!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/motd_image.png?raw=true"
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/birthay_upate.png?raw=true"
         },
         {
             "title": "Limited time free wheels!",
             "description": "Eat 100 pieces of cake to unlock the Birthday Cake Wheels!, they are only unlockable for a limited time, so be fast to keep them forever!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/birthay_upate.png?raw=true"
         },
         {
             "title": "Limited birthday maps!",
             "description": "The maps have gotten a temporary overhaul for the Birthday event! Enjoy Alcohol Balloons and cake everywhere!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/birthay_upate.png?raw=true"
         }
     ]
 
