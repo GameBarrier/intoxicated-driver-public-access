@@ -3,6 +3,11 @@
 
     "motd_list": [
         {
+            "title": "Birthday event ending tomorrow!",
+            "description": "Unlock the Birthday Cake Wheels for free while you still can! The birthday event is ending soon!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Birthay%20Maps.png?raw=true"
+        },
+        {
             "title": "Birthday update!",
             "description": "Thank you all for playing for the last year! Enjoy this limited time event: Eat pieces of cake to heal, gain a boost, and unlock the free Birthday Cake Wheels!",
             "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_News_BirthdayCake.png?raw=true"
