@@ -2601,8 +2601,8 @@
         },
         {
             "itemdefid": 82,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Chocolate%20wrap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Chocolate%20wrap.png?raw=true",
             "name": "Chocolate wrap",
             "description": "Yummy flowing chocolate!",
             "display_type": "Wrap",
@@ -2622,6 +2622,29 @@
             "wrap_material_path": "/Script/Engine.Material'/Game/DrunkDriver/CosmeticsV2/Wraps/ChocolateWrap.ChocolateWrap'",
             "wrap_thumbnail_path": "/Script/Engine.Material'/Game/DrunkDriver/CosmeticsV2/Wraps/Thubnail_ChocolateWrap.Thubnail_ChocolateWrap'",
             "default_colors": "0,255,255"
+        },
+        {
+            "itemdefid": 83,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Cat%20ear%20headphones.png?raw=true",
+            "name": "Bunny Ears",
+            "description": "Hop hop hopping to the liquor store!",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/CosmeticsV2/Wraps/BunnyEars.BunnyEars'",
+            "default_colors": "255,255,255;255,110,248;212,178,210"
         }
     ]
 }
