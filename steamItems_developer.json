@@ -2671,8 +2671,8 @@
         },
         {
             "itemdefid": 85,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Egg%20Wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Egg%20Wheels.png?raw=true",
             "name": "Easter Egg Wheels",
             "description": "Collect all chocolate eggs to unlock! Literally driving on egg shells!",
             "display_type": "Wheels",
@@ -2687,7 +2687,7 @@
             "hidden": false,
             "store_hidden": false,
             "game_only": false,
-            "unlock_type": "purchase",
+            "unlock_type": "easter_challenge",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/easter_egg_wheels.easter_egg_wheels'",
             "default_colors": "40,252,3;0,179,255;255,0,191"
         }
