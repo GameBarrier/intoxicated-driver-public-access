@@ -2619,7 +2619,7 @@
             "store_hidden": false,
             "game_only": false,
             "unlock_type": "purchase",
-            "wrap_material_path": "/Script/Engine.Material'/Game/DrunkDriver/CosmeticsV2/Wraps/ChocolateWrap.ChocolateWrap'",
+            "wrap_material_path": "/Script/Engine.MaterialInstanceConstant'/Game/DrunkDriver/CosmeticsV2/Wraps/ChocolateWrap_Inst.ChocolateWrap_Inst'",
             "wrap_thumbnail_path": "/Script/Engine.Material'/Game/DrunkDriver/CosmeticsV2/Wraps/Thubnail_ChocolateWrap.Thubnail_ChocolateWrap'",
             "default_colors": "71,40,29"
         },
