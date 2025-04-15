@@ -2645,6 +2645,29 @@
             "unlock_type": "purchase",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/CosmeticsV2/Wraps/BunnyEars.BunnyEars'",
             "default_colors": "255,255,255;255,110,248;212,178,210"
+        },
+        {
+            "itemdefid": 84,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Bunny%20Ears.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Bunny%20Ears.png?raw=true",
+            "name": "Easter Bunny",
+            "description": "So cute! I sure hope it doesn't have a crippling alcohol addiction!",
+            "display_type": "Hat",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "price": "1;VLV150",
+            "name_color": "8400ff",
+            "background_color": "8400ff",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Hats/EasterBunny.EasterBunny'",
+            "default_colors": "255,255,255;0,0,0;40,252,3;0,179,255;255,0,191"
         }
     ]
 }
