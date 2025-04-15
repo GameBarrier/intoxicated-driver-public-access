@@ -2670,12 +2670,12 @@
             "default_colors": "255,255,255;0,0,0;40,252,3;0,179,255;255,0,191"
         },
         {
-            "itemdefid": 85,
+            "itemdefid": -1,
             "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Egg%20Wheels.png?raw=true",
             "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Egg%20Wheels.png?raw=true",
             "name": "Easter Egg Wheels",
             "description": "Collect all chocolate eggs to unlock! Literally driving on egg shells!",
-            "display_type": "Wheels",
+            "display_type": "Wheel",
             "item_slot": "Cosmetic",
             "store_tags": "Rare",
             "name_color": "daffc4",
@@ -2690,6 +2690,28 @@
             "unlock_type": "easter_challenge",
             "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/easter_egg_wheels.easter_egg_wheels'",
             "default_colors": "40,252,3;0,179,255;255,0,191"
+        },
+        {
+            "itemdefid": 85,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
+            "name": "Easter Bundle",
+            "description": "All you need for when the Easter Bunny comes!",
+            "display_type": "Bundle",
+            "item_slot": "Bundle",
+            "store_tags": "Legendary",
+            "price": "1;VLV200",
+            "name_color": "b4ff8c",
+            "background_color": "b4ff8c",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "item_ids_contained": "82,83,84"
         }
     ]
 }
