@@ -13,9 +13,14 @@
                     "url": "https://discord.com/invite/gfjRsCU"
                 },
                 {
-                    "text": "Visit Channel!",
+                    "text": "Visit Twitch Channel!",
                     "type": "url",
                     "url": "https://www.twitch.tv/always_lagggin"
+                },
+                {
+                    "text": "Visit TikTok Channel",
+                    "type": "url",
+                    "url": "https://www.tiktok.com/@always_lagggin?ug_source=op.auth&ug_term=Linktr.ee&utm_source=awyc6vc625ejxp86&utm_campaign=tt4d_profile_link&_r=1"
                 }
             ]
         },
