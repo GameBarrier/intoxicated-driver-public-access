@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+
+    "motd_list": [
+        {
+            "title": "Birthday event is over!",
+            "description": "Thank you all for playing the birthday event! We hope you had a blast and we are working on more events and updates for the future!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Birthay%20Maps.png?raw=true",
+            "buttons": [
+                {
+                    "text": "Join Discord!",
+                    "type": "url",
+                    "url": "https://discord.com/invite/gfjRsCU"
+                },
+                {
+                    "text": "Visit Channel!",
+                    "type": "url",
+                    "url": "https://www.twitch.tv/always_lagggin"
+                }
+            ]
+        },
+        {
+            "title": "Other thing!",
+            "description": "No buttons here!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Birthay%20Maps.png?raw=true"
+        }
+    ]
+}
