@@ -3,9 +3,9 @@
 
     "motd_list": [
         {
-            "title": "Birthday event is over!",
-            "description": "Thank you all for playing the birthday event! We hope you had a blast and we are working on more events and updates for the future!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Birthay%20Maps.png?raw=true",
+            "title": "Twitch stream soon!",
+            "description": "Mark your calendar! Always_LagginTV is hosting a 4/20 celebration stream on Twitch and TikTok on April 20th at 4:20 PM EST! Join us for some fun and appear on stream for the release of the Easter Event!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_EasterUpdate_Stream.png?raw=true",
             "buttons": [
                 {
                     "text": "Join Discord!",
@@ -25,14 +25,28 @@
             ]
         },
         {
-            "title": "New event and Twitch stream soon!",
-            "description": "Mark your calendar! Always_LagginTV is hosting a 4/20 celebration stream on Twitch and TikTok on April 20th at 4:20 PM EST! Join us for some fun and appear on stream for the release of the Easter Event!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_EasterUpdate_Stream.png?raw=true"
+            "title": "New easter event!",
+            "description": "The Easter event is now live! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Easter%20update.png?raw=true",
+            "buttons": [
+                {
+                    "text": "Join Discord!",
+                    "type": "url",
+                    "url": "https://discord.com/invite/gfjRsCU"
+                }
+            ]
         },
         {
-            "title": "New easter event soon!",
-            "description": "The Easter event will start soon! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Easter%20update.png?raw=true"
+            "title": "Double XP!",
+            "description": "The Easter event is now live! Now for all events there is double XP untill the event ends! Enjoy leveling up and earning those level rewards!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_EasterDoubleXP.png?raw=true",
+            "buttons": [
+                {
+                    "text": "Join Discord!",
+                    "type": "url",
+                    "url": "https://discord.com/invite/gfjRsCU"
+                }
+            ]
         }
     ]
 }
