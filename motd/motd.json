@@ -3,28 +3,6 @@
 
     "motd_list": [
         {
-            "title": "Twitch stream soon!",
-            "description": "Mark your calendar! Always_LagginTV is hosting a 4/20 celebration stream on Twitch and TikTok on April 20th at 4:20 PM EST! Join us for some fun and appear on stream for the release of the Easter Event!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_EasterUpdate_Stream.png?raw=true",
-            "buttons": [
-                {
-                    "text": "Join Discord!",
-                    "type": "url",
-                    "url": "https://discord.com/invite/gfjRsCU"
-                },
-                {
-                    "text": "Visit Twitch Channel!",
-                    "type": "url",
-                    "url": "https://www.twitch.tv/always_lagggin"
-                },
-                {
-                    "text": "Visit TikTok Channel",
-                    "type": "url",
-                    "url": "https://www.tiktok.com/@always_lagggin?ug_source=op.auth&ug_term=Linktr.ee&utm_source=awyc6vc625ejxp86&utm_campaign=tt4d_profile_link&_r=1"
-                }
-            ]
-        },
-        {
             "title": "New easter event!",
             "description": "The Easter event is now live! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
             "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Easter%20update.png?raw=true",
