@@ -2712,6 +2712,28 @@
             "game_only": false,
             "unlock_type": "purchase",
             "item_ids_contained": "82,83,84"
+        },
+        {
+            "itemdefid": -1,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Egg%20Wheels.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Egg%20Wheels.png?raw=true",
+            "name": "Beach Ball Wheels",
+            "description": "Bouncing to the LC!",
+            "display_type": "Wheel",
+            "item_slot": "Cosmetic",
+            "store_tags": "Rare",
+            "name_color": "fcfc03",
+            "background_color": "fcfc03",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "summer_challenge",
+            "mesh_path": "/Script/Engine.StaticMesh'/Game/DrunkDriver/Art/Meshes/Vehicles/Taurus/beach_ball_Wheels.beach_ball_Wheels'",
+            "default_colors": "255,255,255;255, 119, 0;255, 0, 0;0, 252, 236"
         }
     ]
 }
