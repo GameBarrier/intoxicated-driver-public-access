@@ -2737,8 +2737,8 @@
         },
         {
             "itemdefid": 86,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flamingoose%20McBooze.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flamingoose%20McBooze.png?raw=true",
             "name": "Flamingoose McBooze",
             "description": "You'll feel floaty too, after a few drinks!",
             "display_type": "Hat",
@@ -2759,9 +2759,9 @@
             "default_colors": "202, 0, 252; 255, 225, 0; 0, 0, 0;"
         },
                 {
-            "itemdefid": 86,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Easter%20Bunny.png?raw=true",
+            "itemdefid": 87,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Sunny%20Hat.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Sunny%20Hat.png?raw=true",
             "name": "Sunny Hat",
             "description": "After a rainy day there's a drunk day to forget it!",
             "display_type": "Hat",
@@ -2782,9 +2782,9 @@
             "default_colors": "255, 225, 0; 0, 0, 0; 255, 255, 255"
         },
         {
-            "itemdefid": 87,
-            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
-            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Gradient%20wrap.png?raw=true",
+            "itemdefid": 88,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flower%20wrap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flower%20wrap.png?raw=true",
             "name": "Flower wrap",
             "description": "Driving smoothly with flowers!",
             "display_type": "Wrap",
@@ -2804,6 +2804,28 @@
             "wrap_material_path": "/Script/Engine.Material'/Game/DrunkDriver/CosmeticsV2/Wraps/FlowerWrap.FlowerWrap'",
             "wrap_thumbnail_path": "/Script/Engine.Material'/Game/DrunkDriver/CosmeticsV2/Wraps/Thubmnail_FlowerWrap.Thubmnail_FlowerWrap'",
             "default_colors": "207, 193, 167; 145, 194, 199; 199, 125, 160; 125, 199, 129; 124, 109, 189"
+        },
+        {
+            "itemdefid": 89,
+            "icon_url": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flower%20wrap.png?raw=true",
+            "icon_url_large": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/thumbnails/Flower%20wrap.png?raw=true",
+            "name": "Summer Bundle",
+            "description": "Clench your thirst with booze!",
+            "display_type": "Bundle",
+            "item_slot": "Bundle",
+            "store_tags": "Legendary",
+            "price": "1;VLV200",
+            "name_color": "fbff7a",
+            "background_color": "fbff7a",
+            "quantity": 1,
+            "type": "item",
+            "tradable": false,
+            "marketable": false,
+            "hidden": false,
+            "store_hidden": false,
+            "game_only": false,
+            "unlock_type": "purchase",
+            "item_ids_contained": "86, 87, 88"
         }
     ]
 }
