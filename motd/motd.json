@@ -8,16 +8,16 @@
             "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/codeMaestro.png?raw=true",
             "buttons": [
                 {
-                    "text": "Learn more!",
+                    "text": "Join contest!",
                     "type": "url",
                     "url": "https://discord.com/invite/4qhkb3ZBha"
                 }
             ]
         },
         {
-            "title": "New easter event!",
-            "description": "The Easter event is now live! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_Easter%20update.png?raw=true",
+            "title": "New Summer event!",
+            "description": "The Summer event is now live! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/SummerUpdate.png?raw=true",
             "buttons": [
                 {
                     "text": "Join Discord!",
@@ -28,8 +28,20 @@
         },
         {
             "title": "Double XP!",
-            "description": "The Easter event is now live! Now for all events there is double XP untill the event ends! Enjoy leveling up and earning those level rewards!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/genThumbnail_EasterDoubleXP.png?raw=true",
+            "description": "The Summer event is now live! Now for all events there is double XP untill the event ends! Enjoy leveling up and earning those level rewards!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/SummerUpdateDoubleXp.png?raw=true",
+            "buttons": [
+                {
+                    "text": "Join Discord!",
+                    "type": "url",
+                    "url": "https://discord.com/invite/gfjRsCU"
+                }
+            ]
+        },
+         {
+            "title": "New Drunk effect!",
+            "description": "We have overhauled the drunk effect to be even crazier! Enjoy the new effects and let us know what you think!",
+            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/newDrunkEffect.png?raw=true",
             "buttons": [
                 {
                     "text": "Join Discord!",
