@@ -3,18 +3,6 @@
 
     "motd_list": [
         {
-            "title": "Win Prices in a new contest! Includes Discord Nitro, and access to Code Maestro!",
-            "description": "🎉 Take part in the Code Maestro x Game Barrier contest! Be active in the chat and win Discord Nitro and access to Code Maestro! 🏆",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/codeMaestro.png?raw=true",
-            "buttons": [
-                {
-                    "text": "Join contest!",
-                    "type": "url",
-                    "url": "https://discord.com/invite/4qhkb3ZBha"
-                }
-            ]
-        },
-        {
             "title": "New Summer event!",
             "description": "The Summer event is now live! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
             "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/SummerUpdate.png?raw=true",
