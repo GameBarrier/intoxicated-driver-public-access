@@ -3,9 +3,9 @@
 
     "motd_list": [
         {
-            "title": "New Winter event!",
-            "description": "The Winter event is now live! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/winter2_1.png?raw=true",
+            "title": "Intoxicated Driver turns 2 years old!!!",
+            "description": "The Birthday event is now live! Earn Double XP, enjoy all maps being overhauled and unlock a free limited time cosmetic by completing a challenge!",
+            "image": "https://raw.githubusercontent.com/GameBarrier/intoxicated-driver-public-access/refs/heads/main/motd/images/genThumbnail_Birthay%20Maps.png",
             "buttons": [
                 {
                     "text": "Join Discord!",
@@ -16,8 +16,8 @@
         },
         {
             "title": "Double XP!",
-            "description": "The Winter event is now live! Now for all events there is double XP untill the event ends! Enjoy leveling up and earning those level rewards!",
-            "image": "https://github.com/GameBarrier/intoxicated-driver-public-access/blob/main/motd/images/winter2_2.png?raw=true",
+            "description": "The Birthday event is now live! Now for all events there is double XP untill the event ends! Enjoy leveling up and earning those level rewards!",
+            "image": "https://clan.akamai.steamstatic.com/images//44830981/5e39d2ca29ee843250d2cea660b410c1ab22e8c9.png",
             "buttons": [
                 {
                     "text": "Join Discord!",
